@@ -12,7 +12,7 @@ Consent is also **mutual** \(both people have to agree\) and must be **continuou
 
 ### Consent is enthusiastic
 
-At Project Respect, we believe that everyone has the right to sexuality without violence and as part of that, we believe that positive sexuality begins with ****[**enthusiastic consent**](http://campus.feministing.com/2010/10/27/on-the-critical-hotness-of-enthusiastic-consent/).  This means being as excited and into someone else’s enjoyment as we are excited and into our own enjoyment.  Only yes means yes – and yes should come from an engaged and enthusiastic partner.
+At Project Respect, we believe that everyone has the right to sexuality without violence and as part of that, we believe that positive sexuality begins with  **enthusiastic consent**. This means being as excited and into someone else’s enjoyment as we are excited and into our own enjoyment.  Only yes means yes – and yes should come from an engaged and enthusiastic partner.
 
 > “Consent isn’t a question. It’s a state. If, instead of lovers, the two of you were synchronized swimmers, consent would be the water. It’s not enough to jump in, get wet and climb out — if you want to swim, you have to be in the water continually. And if you want to have sex, you have to be continually in a state of enthusiastic consent with your partner.”
 

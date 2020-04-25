@@ -10,6 +10,15 @@ Very simple, there's no-one employed, every participant, also the organizers pay
 
 So we need you to lend a hand. Please consider volunteering at least 5 hours. If we do the math this should be the average amount everyone should volunteer. Please take into account that most shifts don't require constant work. For example a kitchen shift is usually counted at 3 hours, but most of it is 'being there'. 
 
+There are countless ways to get involved, including:
+
+* Arriving early for build or staying after for clean up
+* Volunteering for a shift
+* Creating and bringing art
+* Running a workshop
+* Making music, a show, or a performance
+* But you can create your own way to participate!
+
 **The good shifts are gone the fastest, please sign up here:** [**https://angels.roguerope.be/**](https://angels.roguerope.be/)\*\*\*\*
 
 ![Be a great person and rise to the challenge.](.gitbook/assets/giphy.webp)

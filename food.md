@@ -22,4 +22,3 @@ We will also provide coffee, tea, sparkling and still water free of charge for a
 If you want to help shaping the cooking crew or menu, let us know on support@roguerope.be.
 
 ![](.gitbook/assets/image%20%281%29.png)
-
