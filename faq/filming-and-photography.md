@@ -30,15 +30,7 @@ If a participant asks you to stop filming, you must stop immediately or face bei
 
 The copyright of any design, written work, artwork or performance is owned by the person or group of people who created it. You must ask permission before recording, filming or photographing artwork or performances and get signed model releases from all appropriate parties. You may not use any sounds or images of such designs, artworks or performances without a signed release or license from the creator\(s\) and Rope Camp.
 
-####  _Artist rights and responsibilities_
-
-* You have the right to protect the sound or image of your artwork or performance.
-* You have the right to ask someone to stop taking images of your art or performance or an audio recording if you don’t approve.
-* You have the right to be credited for authorship of your artwork in any commercial use of your work, and perhaps to receive a payment.
-* You have the right to enforce copyright and trademark ownership of your unique work.
-* Photographers and videographers should get your signature on a release or license in order to make any use of images of your work for commercial purposes.
-
-## [DRONES. Can I fly my drone at Rope Camp?
+## DRONES. Can I fly my drone at Rope Camp?
 
 Yes, but respect relevant laws and be cool.
 

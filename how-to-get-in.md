@@ -49,11 +49,11 @@ We'll setup a whatsapp group for driving to the station and back.
 
 ### Give your ticket to the greeter.
 
-You made it! Make sure to bring your ticket, you will get a [release statement](release-statement..md) to sign and you will get a nice bracelet in return to prove you are now one of the cool kids. 
+You made it! Make sure to bring your ticket, you will get a [release statement](release-statement..md) to sign.
+Newt we will measure your body temp, if it's above 37.2 C you will be asked to leave.
+If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
+
 
 {% hint style="success" %}
 Now it's time to relax, set up your tent and come to share a drink with us.
 {% endhint %}
-
-
-
