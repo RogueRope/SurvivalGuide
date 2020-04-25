@@ -8,4 +8,5 @@
 * [How to get in?](how-to-get-in.md)
 * [Release Statement.](release-statement..md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
+* [Cancellation](cancellation.md)
 
