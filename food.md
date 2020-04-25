@@ -12,7 +12,7 @@ We provide vegetarian and meat options, anything beyond that is not within the c
 | :--- | :--- | :--- | :--- | :--- |
 | Brunch | Niets | Ontbijt | Ontbijt | Ontbijt |
 | Soep | Niets | Groentensoep - humus , brood | Tomatensoep olijven, tapas | Niets / Leftovers |
-| Avond | Hot-dogs, agurken,  ajuin, Zuurkool, saus, kaas. | Spagetti Veggy / Bolognaise | BBQ | Niets |
+| Avond | Hotdogs,. | Spagetti Veggy / Bolognaise | BBQ | Niets |
 
 If you want to help shaping the cooking crew or menu, let me know on support@roguerope.be.  
 

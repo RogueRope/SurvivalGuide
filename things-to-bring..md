@@ -6,28 +6,30 @@ description: >-
 
 # Things to Bring.
 
-### DOCUMENTS 
+### Documents
 
 * Your PRINTED ticket
 * Your ID
 
-### ACCESSORIES: 
+### Accessories 
 
 * A solid cup \(reusable, no glasses\) for your water/tea/coffee/soup **~ CUP IS MANDATORY ~** 
 * A torch with enough batteries and/or LED head torches \(these are the best\) 
 * Water bottle 
 * Sunscreen
-* Tent and accesories. 
+* Rope and other toys.
+* Tent and accessories. 
 * Ear plugs and eye mask. Not everyone wants to sleep when you do!
 
-### HYGIENE:
+### Hygiene
 
 * Hand sanitizer
 * Shower soap / Shampoo 
+* Toothbrush / paste
 * A towel.
 * Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please contact support@roguerope.be for any questions or concerns.
 
-## Not to bring: 
+## Do not bring: 
 
 * Kids \(&lt;18j\). 
 * Pets.
