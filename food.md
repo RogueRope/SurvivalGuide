@@ -11,11 +11,11 @@ We provide vegetarian and meat options, anything beyond that is not within the c
 | Time | -- | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 9-12 | Brunch | --/-- | Breakfast | Breakfast | Breakfast |
-| 15.00 | Soup | --/-- | Vegetable Soup | Tomato Soup | Leftovers |
-| 16.00 | Snacks | TBC | Humus , brood | Olives, tapas | Leftovers |
+| 15.00 | Soup | TBC | Vegetable Soup | Tomato Soup | Leftovers |
+| 16.00 | Snacks | TBC | Humus , bread | Olives, tapas | Leftovers |
 | 19-21 | Dinner | Hot-dogs | Spagetti Veggy  / Bolognaise | BBQ | --/-- |
 
-At the bar we should have different drinks, ice creams, croques, chips...    
+**At the bar:** we should have different drinks, ice creams, croques, chips...    
   
 If you want to help shaping the cooking crew or menu, let me know on support@roguerope.be.
 

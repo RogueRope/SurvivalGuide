@@ -20,3 +20,5 @@ At Project Respect, we believe that everyone has the right to sexuality without 
 
 ![](.gitbook/assets/ohyes.webp)
 
+If you want to help shaping the consent/DM crew, let me know on support@roguerope.be.
+

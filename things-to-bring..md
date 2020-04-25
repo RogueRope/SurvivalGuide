@@ -8,7 +8,7 @@ description: >-
 
 ### Documents
 
-* Your PRINTED ticket
+* Your ticket 
 * Your ID
 
 ### Accessories 
