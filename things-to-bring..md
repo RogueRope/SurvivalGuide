@@ -13,7 +13,7 @@ description: >-
 
 ### ACCESSORIES: 
 
-* A solid cup \(reusable, no glasses\) **~ CUP IS MANDATORY ~** 
+* A solid cup \(reusable, no glasses\) for your water/tea/coffee/soup **~ CUP IS MANDATORY ~** 
 * A torch with enough batteries and/or LED head torches \(these are the best\) 
 * Water bottle 
 * Sunscreen
