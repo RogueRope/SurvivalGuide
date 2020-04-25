@@ -10,3 +10,9 @@
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
 * [Cancellation](cancellation.md)
 
+## Faq
+
+* [Participation](faq/participation.md)
+* [Filming and Photography](faq/filming-and-photography.md)
+* [Leave No Shit](faq/leave-no-shit.md)
+
