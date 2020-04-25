@@ -5,9 +5,11 @@
 * [Things to Bring.](things-to-bring..md)
 * [Food](food.md)
 * [Consent](consent.md)
+* [Needs](needs.md)
 * [How to get in?](how-to-get-in.md)
 * [Release Statement.](release-statement..md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
+* [Emotional](emotional.md)
 * [Cancellation](cancellation.md)
 
 ## Faq
