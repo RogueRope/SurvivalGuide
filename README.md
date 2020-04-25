@@ -15,13 +15,6 @@ This includes:
 * A [volunteer shift system](https://angels.roguerope.be/). 
 * A [ticket system](https://help.roguerope.be/) that also integrates with email \(support@roguerope.be\).
 
-There is a basic menu:      
-
-| X | Don | Vrij | Zat | Zon |
-| :--- | :--- | :--- | :--- | :--- |
-| Brunch | Niets | Ontbijt | Ontbijt | Ontbijt |
-| Soep | Niets | Groentensoep - humus , brood | Tomatensoep olijven, tapas | Niets / Leftovers |
-| Avond | Hot-dogs, agurken,  warme ajuin, warme zuurkool, saus, kaas. | Spagetti Veggy / Bolognaise | BBQ | Niets |
 
 The setup is volunteer driven, **everyone needs to participate.**
 
