@@ -9,7 +9,7 @@ description: >-
 
 ### Radical Transparency <a id="Radical-Transparancy"></a>
 
-Any part of the orga will be open for the participants. There’s no secret man behind the curtain. Financial en organisational stuff should be clear to all participants. For external people, well We’re probably be judged by them. So fuck it, we’re a yoga club.
+Any part of the orga will be open for the participants. There’s no secret man behind the curtain. Financial en organisational stuff should be clear to all interested participants. For external people, We'll probably be judged by them. So fuck it, we’re a yoga club.
 
 ### Radical Self-responsibility <a id="Radical-Self-responsibility"></a>
 
@@ -33,12 +33,12 @@ We value constructive anarchy. We believe in doing rather than talking. Don’t 
 If you use or borrow something, return it in a better state than when you received it.  
 We are committed not to stuff the orga with huge cleaning costs or efforts. The orga isn’t our mum.
 
-### Creative Capitalism <a id="Consent-ask-before-you-fondle"></a>
+### Creative Capitalism <a id="Creative-Capitalism"></a>
 
 Money is not the root of all evil but keeps things afloat.   
 Cool people aren’t profit motivated, boring people are, don’t be boring.
 
-### Consent: ask before you fondle.
+### Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>
 
 We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes, even when said while intoxicated. We believe an act is an act even when done while intoxicated.
 
