@@ -1,4 +1,8 @@
-# Statuten De Gentse Connectie VZW 
+---
+Statuten De Gentse Connectie VZW
+---
+# Statutes
+
 ## VOORAF 
 * Hans Fraiponts, wonende te Emiel Lossystraat 37, 9040 Gent;
 * Oprichter 2 , wonende te . 
