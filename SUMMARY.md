@@ -7,5 +7,4 @@
 * [Consent](consent.md)
 * [Release Statement.](release-statement..md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
-* [Statutes](statutes.md)
 
