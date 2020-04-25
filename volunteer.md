@@ -49,5 +49,5 @@ Restricted: Please **apply for this function** via support@roguerope.be
 
 Upon arrival we will make assign shifts to the people who have got the smallest amounts of signed up hours. Let's hope this will work. :-\) 
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/aragorn-lets-do-this.gif)
 
