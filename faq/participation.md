@@ -11,4 +11,3 @@ Damn right! Rope Camp is, among other things, an arts event, and we encourage pa
 ## But I can’t build stuff or make art! What can I do?
 
 Contribute in any way you can. You could cook for your camp, give manicures, massages, presents or performances, and anything else that takes your fancy! Everyone has a valuable contribution to make – [here are some more ideas.](https://angels.ropecamp.be)
-

@@ -4,17 +4,11 @@ Everything is tougher at Rope Camp. This also goes the way you handle things—i
 
 Here are some tips : 
 
-● Be gentle with your body 
-
-● Seek help if you need it 
-
-● State your boundaries and communicate—whether with strangers or your loved ones 
-
-● Have the experience that makes YOU happy 
-
-● Connect in ways that make YOU comfortable 
-
-● After Nowhere, be smart, and take time reflect on your choices—be it at the event or in the ‘default world’
+* Be gentle with your body 
+* Seek help if you need it 
+* State your boundaries and communicate—whether with strangers or your loved ones 
+* Have the experience that makes YOU happy 
+* Connect in ways that make YOU comfortable 
 
 ### Couples
 

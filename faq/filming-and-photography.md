@@ -8,9 +8,7 @@ Rope Camp is a special place, where people are encouraged to express themselves 
 – You have the right to ask someone to stop taking a picture/video of you or recording your voice.  
 – You have the right to know what someone plans to do with a photo/video/audio recording.
 
-In the event that you have a dispute with someone about photography, please flag down a Nomad or come to Malfare so that the volunteers there can help to mediate the situation. Your right to take someone’s photo and publish it **NEVER** over-rules their right to privacy! If posting photos onto Facebook or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission
-
-Rope Camp is a private event and all rights regarding imagery, sound, or art are reserved by the event organization. Use of any image or sound recorded at Rope Camp, be it digital, analog or still camera equipment, is subject to written permission from Rope Camp. All written permissions will be limited to the particular project described, and may be subject to restrictions. Specifically, no photo, video, audio or other media taken at Rope Camp can be used for commercial purposes.
+In the event that you have a dispute with someone about photography, please let the orga know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto Fet or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission
 
 If you have any questions about photography or filming at Rope Camp, please email [support@roguerope.be](mailto:support@roguerope.be)
 
