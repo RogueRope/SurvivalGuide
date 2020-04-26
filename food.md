@@ -16,11 +16,11 @@ You are asked to make this choice when you sign up for a ticket, people that sig
 | 16.00 | Snacks | TBC     | Humus , bread  | Olives, tapas| Leftovers |
 | 19-21 | Dinner | Hot-dogs| Spaghetti      | BBQ          | --/--     |
 
-As you can see, this is **not** a culinary event, if you're part of the *vegan/organic/gluten-free quinoa-crowd*, this event is *not* for you.
+As you can see, this is **not** a culinary event, if you're part of the *vegan/organic/gluten-free quinoa-crowd*, I'm very sorry but this event is **not** for you.
 
 We will also provide coffee, tea, sparkling and still water free of charge for all participants.
 
-**At the bar:** For a small cost, we will provide different beers and soda's, ice creams, croques, chips...
+**At the bar:** For a small price, we will provide different beers, wine and soda's, ice creams, croques, chips...
 
 If you want to help shaping the cooking crew or menu, let us know on support@roguerope.be.
 
