@@ -6,6 +6,7 @@
 * [Food](food.md)
 * [Consent](consent.md)
 * [Needs](needs.md)
+* [Play](play.md)
 * [How to get in?](how-to-get-in.md)
 * [Release Statement.](release-statement..md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
