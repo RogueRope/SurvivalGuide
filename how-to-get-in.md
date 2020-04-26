@@ -17,7 +17,7 @@ Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:
 No ticket: no entry. Buying a ticket is very easy and straightforward.
 
 {% hint style="success" %}
-Go to [https://camp.roguerope.be](https://camp.roguerope.be) and buy a ticket, we take Bancontact and Mollie, and we send the tickets to your doorstep free of charge. If for reasons of corona the vent is canceled you will receive 100% of your money back.
+Go to [https://camp.roguerope.be](https://camp.roguerope.be) and buy a ticket, we take Bancontact and Mollie, and will send the tickets to your doorstep free of charge. If for reasons of corona the vent is canceled you will receive 100% of your money back.
 {% endhint %}
 
 ## Sign up for some shifts
