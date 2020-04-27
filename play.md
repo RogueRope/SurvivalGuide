@@ -11,6 +11,7 @@ Everybody started from zero, and we're always interested in learning to know new
 
 ## Other play
 Other play is welcome, wips, chains, ductape, blood, fire. 
+
 We're not afraid of nudety or sex, the plan is to improvise a dark room as well.
 
 Golden showers and scat are hard to do in a 'clean' way at the camp, so we'll draw the line there. 
