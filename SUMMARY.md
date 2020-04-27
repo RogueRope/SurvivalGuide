@@ -5,7 +5,7 @@
 * [Things to Bring.](things-to-bring..md)
 * [Food](food.md)
 * [Consent](consent.md)
-* [Needs](needs.md)
+[//]* [Needs](needs.md)
 * [Play](play.md)
 * [How to get in?](how-to-get-in.md)
 * [Release Statement.](release-statement..md)

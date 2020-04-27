@@ -13,6 +13,5 @@ One of the fundamental idea of Leave no trace is : **Pack it in, pack it out**. 
 * **Carry a MOOP bag**. Wherever you go, carry a small bag to collect any MOOP you find. 
 * **Weigh items down/don’t let them blow away**: put a weight on or tie down anything that can blow away.
 * If you’re a smoker, **carry a portable ashtray** such as a mint tin with you at all times. Or put butts in your pocket. **Never, ever drop butts**.
-* Only biodegradable food waste and absorbent paper \(e.g. kitchen roll\) should be put in the organic recycling
 * Do not let bins overflow and MOOP get out of hand.
 
