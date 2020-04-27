@@ -1,8 +1,8 @@
 ---
 description: >-
-  BlaBla, loosely based on the Burning Man principles. Didn’t want to have
+  Loosely based on the Burning Man principles. Didn’t want to have
   exactly 10 principles, smells like religion. So we have N principles, N is
-  variable, could be more, could be less. Could change
+  variable, could be more, could be less. Could change, might as well stay the same.
 ---
 
 # The N Principles of Rogue Rope
@@ -14,7 +14,7 @@ Any part of the orga will be open for the participants. There’s no secret man 
 ## Radical Self-responsibility <a id="Radical-Self-responsibility"></a>
 
 Rogue Rope encourages the individual to discover, exercise and rely on his or her inner resources. We don’t care about your hangups, or politics.  
-You’re mental state is also your responsibility you are what you are, and what you take.
+You’re mental state is also your responsibility you are what/who you are, and what you take.
 
 ## Remix Culture <a id="Remix-Culture"></a>
 
@@ -35,12 +35,14 @@ We are committed not to stuff the orga with huge cleaning costs or efforts. The 
 
 ## Creative Capitalism <a id="Creative-Capitalism"></a>
 
-Money is not the root of all evil but keeps things afloat.  
-Cool people aren’t profit motivated, boring people are, don’t be boring.
+Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption *and* greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. 
+Cool people aren’t profit motivated, boring people are, _don’t be boring_.
 
 ## Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>
 
-We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes, even when said while intoxicated. We believe an act is an act even when done while intoxicated.
+We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes. 
+
+----
 
 ![](https://i.imgur.com/WOlaU4c.png)  
 Creative Commons License  
