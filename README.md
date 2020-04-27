@@ -19,7 +19,7 @@ The setup is volunteer driven, **everyone needs to participate.**
 
 ## Longer term vision
 
-The non profit was created as vehicle for events, these can be rope-events, parties or burnerlike stuff. It's just a shell so we can: 
+The non profit was created as vehicle for events, these can be rope-events, parties or burner-like stuff. It's just a shell so we can: 
 * Rent cheap stuff from the uitleendienst.
 * Get a bank account 
 * Set up online payments
