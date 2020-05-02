@@ -37,5 +37,5 @@ description: >-
 
 
 
-![](.gitbook/assets/download.jpeg)
+![](.gitbook/assets/mug.jpeg)
 

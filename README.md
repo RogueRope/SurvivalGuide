@@ -1,5 +1,5 @@
 ---
-description: What's this rope camp?
+description: So what's the plan?
 ---
 
 # What's this rope camp?
