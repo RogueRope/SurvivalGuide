@@ -11,7 +11,7 @@
 * [Cancellation](cancellation.md)
 * [Release Statement.](release-statement.md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
-* [How to get in?](how-to-get-in.md)
+* [More Info](how-to-get-in.md)
 
 ## Faq
 
