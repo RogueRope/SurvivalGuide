@@ -24,6 +24,6 @@ We will also provide coffee, tea, sparkling and still water free of charge for a
 
 If you want to help shaping the cooking crew or menu, let us know on support@roguerope.be.
 
-We will buy enough to provide for all participants, we will expect there will be 
+We will buy enough to provide for all participants, we will expect there will be left, and hope all participants take some home as to not waste food.
 
 ![](.gitbook/assets/image%20%281%29.png)

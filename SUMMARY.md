@@ -2,7 +2,7 @@
 
 * [What's this rope camp?](README.md)
 * [Volunteer](volunteer.md)
-* [Things to Bring.](things-to-bring..md)
+* [Things to Bring.](things-to-bring.md)
 * [Food](food.md)
 * [Consent](consent.md)
 [//]* [Needs](needs.md)
