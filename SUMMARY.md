@@ -7,11 +7,11 @@
 * [Consent](consent.md)
 [//]* [Needs](needs.md)
 * [Play](play.md)
-* [How to get in?](how-to-get-in.md)
-* [Release Statement.](release-statement.md)
-* [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
 * [Emotional](emotional.md)
 * [Cancellation](cancellation.md)
+* [Release Statement.](release-statement.md)
+* [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
+* [How to get in?](how-to-get-in.md)
 
 ## Faq
 
