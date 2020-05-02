@@ -1,6 +1,7 @@
 ---
 description: 'Saturday : we'll do an unconference.'
 ---
+
 Maybe we can do some kind of semi formal knowledge-exchange/peer-learnings?
 
 Four easy rules for unconference sessions
