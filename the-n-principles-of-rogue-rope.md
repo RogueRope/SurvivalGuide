@@ -7,10 +7,6 @@ description: >-
 
 # The N Principles of Rogue Rope
 
-## Radical Transparency <a id="Radical-Transparancy"></a>
-
-Any part of the orga will be open for the participants. There’s no secret man behind the curtain. Financial en organisational stuff should be clear to all interested participants. For external people, We'll probably be judged by them. So fuck it, we’re a yoga club.
-
 ## Radical Self-responsibility <a id="Radical-Self-responsibility"></a>
 
 Rogue Rope encourages the individual to discover, exercise and rely on his or her inner resources. We don’t care about your hangups, or politics.  
@@ -47,4 +43,3 @@ We want to create a setting where all parties participate in a physical encounte
 ![](https://i.imgur.com/WOlaU4c.png)  
 Creative Commons License  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
