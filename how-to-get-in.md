@@ -48,9 +48,9 @@ The site is near Vielsalm, you can get there by car, but there's also a train st
 We'll setup a whatsapp group and a car pooling sheet for driving to the site and back.
 {% endhint %}
 
-## Give your ticket to the greeter.
+## Give your order number to the greeter.
 
-You made it! Make sure to bring your ticket, you will get a [release statement](release-statement..md) to sign.   
+You made it! Make sure to bring your order number, so we can verify payment, you will get a [release statement](release-statement.md) to sign.   
 Next we will measure your body temp, if it's above 37.2 C you will be asked to leave. If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
 
 {% hint style="success" %}
