@@ -8,7 +8,7 @@ description: >-
 
 ### Documents
 
-* Your ticket 
+* Your order number 
 * Your ID
 
 ### Accessories 
@@ -27,7 +27,7 @@ description: >-
 * Shower soap / Shampoo 
 * Toothbrush / paste
 * A towel.
-* Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please contact support@roguerope.be for any questions or concerns.
+* Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please contact [support@roguerope.be](mailto:support@roguerope.be) for any questions or concerns.
 
 ## Do not bring: 
 
@@ -35,7 +35,4 @@ description: >-
 * Pets.
 * Bad Vibes.
 
-
-
 ![](.gitbook/assets/mug.jpeg)
-

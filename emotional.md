@@ -17,3 +17,5 @@ Take care of one another. Watch to insure that enough water is going through you
 Equally important, be sure to take time with and time away from one another. Don’t forget that you are individuals. Exposure to the event has a different impact on everyone. One of you may be way into it, while the other might have a hard time adjusting. One of you might be into sitting around camp and making stuff, while the other wants to don costumes and do performance art in the cafe. Don’t be pushy and expect your partner to do the same things you want to do at every second.
 
 Spend all the time together you want, but leave room for yourself and your own interests, too. Remember that there are many of new friends for you each to meet as well, so each of you should feel encouraged to spend time with other people as well as each other. Still, be sure to schedule plenty of ‘dates’ together, and keep them. Just make sure that you honor your time together, but also apart.
+
+![](.gitbook/assets/hug.webp)

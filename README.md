@@ -1,6 +1,7 @@
 ---
 description: So what's the plan?
 ---
+![](.gitbook/assets/splash.png)
 
 # What's this rope camp?
 
@@ -19,6 +20,8 @@ Rogue rope is focused on infrastructure.
 We provide a space, a place to pitch your tent, stuff to eat and drink. A sound-system. Water and power, toilets and warm showers.
 
 ## What do you provide? 
-This is not a festival where there's a divide between the audience/consumers and the artists on stage. 
-We create the stage, but **you** perform the show. 
-This is a playground with a bunch of toys, an empty dance floor. 
+This is not a festival where there's a divide between the audience and the artists on stage. 
+
+This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
+
+We create the stage, but **you** perform the show.

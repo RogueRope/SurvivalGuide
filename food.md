@@ -6,6 +6,8 @@ description: What's for dinner?
 
 Expect basic "camp food": dishes we can make in large quantities without breaking the bank. There should be enough for everybody.
 
+![](.gitbook/assets/image%20%281%29.png)
+
 We provide **vegetarian** and **meat** options, anything beyond that is not within the current capabilities of the kitchen. 
 You are asked to make this choice when you sign up for a ticket. Note that people who've signed up as meat-eater are not allowed to eat the veggie stuff if it looks better.
 
@@ -25,5 +27,3 @@ We will also provide coffee, tea, sparkling and still water free of charge for a
 If you want to help shaping the cooking crew or menu, let us know on support@roguerope.be.
 
 We will buy enough to provide for all participants, we will expect there will be left, and hope all participants take some home as to not waste food.
-
-![](.gitbook/assets/image%20%281%29.png)

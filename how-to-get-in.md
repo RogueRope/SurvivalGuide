@@ -37,8 +37,11 @@ We'll setup a whats-app group and a car pooling sheet for driving to the site an
 
 ## Give your order number to the greeter.
 
-You made it! Make sure to bring your order number, so we can verify payment, you will get a [release statement](release-statement.md) to sign.   
-Next we will measure your body temp, if it's above 37.2 C you will be asked to leave. If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
+You made it! Make sure to bring your order number, so we can verify payment, you will get a [release statement](release-statement.md) to sign. 
+
+Next we will measure your body temp, if it's above 37.2 C you will be asked to leave, no refunds.
+
+If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
 
 {% hint style="success" %}
 Now it's time to relax, set up your tent and come to share a drink with us.
