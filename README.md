@@ -22,13 +22,12 @@ This means: helping with food-preparation, cleaning, making content, taking care
 
 ## What does Rogue Rope provide?
 
-Rogue rope is focused on infrastructure. 
+Rogue rope is focused on infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water and power, toilets and warm showers.
+We don't provide: shows, workshops, entertainment.
 
-We provide a space, a place to pitch your tent, stuff to eat and drink. A sound-system. Water and power, toilets and warm showers.
-
-## What do you provide? 
+## What does the participant provide? 
 This is not a festival where there's a divide between the audience and the artists on stage. 
 
 This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
 
-We create the stage, but **you** perform the show.
+We create the stage, but **you the participant** performs the show.
