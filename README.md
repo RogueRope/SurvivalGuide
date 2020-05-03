@@ -23,7 +23,8 @@ This means: helping with food-preparation, cleaning, making content, taking care
 ## What does Rogue Rope provide?
 
 Rogue rope is focused on infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water and power, toilets and warm showers.
-We don't provide: shows, workshops, entertainment.
+
+We don't provide: shows, workshops, entertainment. This is up to the participants.
 
 ## What does the participant provide? 
 This is not a festival where there's a divide between the audience and the artists on stage. 
