@@ -13,3 +13,5 @@ Four easy rules for unconference sessions
 * Rule three: Whenever it starts is the right time.
 * The fourth and final rule is: It’s over when it’s over.
 
+![](../.gitbook/assets/image%20%285%29.png)
+
