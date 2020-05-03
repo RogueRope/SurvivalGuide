@@ -1,7 +1,8 @@
 ---
 description: >-
-  Didn’t want to have  exactly 10 principles, smells like religion. So we have N principles, N is
-  variable, could be more, could be less. Could change, might as well stay the same.
+  Didn’t want to have  exactly 10 principles, smells like religion. So we have N
+  principles, N is variable, could be more, could be less. Could change, might
+  as well stay the same.
 ---
 
 # The N Principles of Rogue Rope
@@ -30,15 +31,13 @@ We are committed not to stuff the organizer with huge cleaning costs or efforts.
 
 ## Creative Capitalism <a id="Creative-Capitalism"></a>
 
-Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption *and* Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. 
-Cool people aren’t profit motivated, boring people are, _don’t be boring_.
+Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption _and_ Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. Cool people aren’t profit motivated, boring people are, _don’t be boring_.
 
 ## Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>
 
-We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes. 
-
-----
+We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes.
 
 ![](https://i.imgur.com/WOlaU4c.png)  
 Creative Commons License  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+

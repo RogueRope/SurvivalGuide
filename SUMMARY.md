@@ -4,7 +4,6 @@
 * [Volunteer](volunteer.md)
 * [Things to Bring.](things-to-bring.md)
 * [Food](food.md)
-[//]* [Needs](needs.md)
 * [Play](play.md)
 * [Cancellation](cancellation.md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
@@ -12,12 +11,14 @@
 * [Site](site.md)
 
 ## To be decided
-* [Unconference](tbd/unconference.md)
-* [Performances](tbd/performances.md)
+
+* [Unconference](to-be-decided/unconference.md)
+* [Performances](to-be-decided/performances.md)
 
 ## FAQ
-[//]* [Participation](faq/participation.md)
+
 * [Filming and Photography](faq/filming-and-photography.md)
 * [Leave No Shit](faq/leave-no-shit.md)
-* [Emotional](emotional.md)
-* [Consent](consent.md)
+* [Emotional](faq/emotional.md)
+* [Consent](faq/consent.md)
+

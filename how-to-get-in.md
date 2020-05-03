@@ -2,13 +2,13 @@
 description: What are the steps you need to take?
 ---
 
-# How to get in?
+# Tickets
 
 ## Read This document.
 
 Doing really well there! Almost done.
 
-(you didn't just skipped all the info to get on this page did you?)
+\(you didn't just skipped all the info to get on this page did you?\)
 
 {% hint style="info" %}
 Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:support@roguerope.be).
@@ -39,7 +39,7 @@ We'll setup a whats-app group and a car pooling sheet for driving to the site an
 
 ## Give your order number to the greeter.
 
-You made it! Make sure to bring your order number, so we can verify payment, you will get a [release statement](release-statement.md) to sign. 
+You made it! Make sure to bring your order number, so we can verify payment, you will get a [release statement](https://github.com/RogueRope/SurvivalGuide/tree/8d063fb0a9f3b34ba295bf545b9b832b6415ef3a/release-statement.md) to sign.
 
 Next we will measure your body temp, if it's above 37.2 C you will be asked to leave, no refunds.
 

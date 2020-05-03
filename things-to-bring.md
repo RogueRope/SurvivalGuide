@@ -10,7 +10,7 @@ description: >-
 
 * Your ticket order number 
 
-### Accessories 
+### Accessories
 
 * A solid cup \(reusable, no glasses\) for your water/tea/coffee/soup **~ CUP IS MANDATORY ~** 
 * A torch with enough batteries and/or LED head torches \(these are the best\) 
@@ -28,10 +28,11 @@ description: >-
 * A towel.
 * Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please contact [support@roguerope.be](mailto:support@roguerope.be) for any questions or concerns.
 
-## Do not bring: 
+## Do not bring:
 
 * Kids \(&lt;18j\). 
 * Pets.
 * Bad Vibes.
 
 ![](.gitbook/assets/mug.jpeg)
+
