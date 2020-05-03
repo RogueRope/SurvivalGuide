@@ -11,4 +11,3 @@ Four easy rules for unconference sessions
 * The fourth and final rule is: It’s over when it’s over.
 
 ![](.gitbook/assets/unconference.jpg)
-Photo by Jo Szczepanska on Unsplash

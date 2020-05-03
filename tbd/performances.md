@@ -8,6 +8,6 @@ Share your skill and surprise us.
 
 _All the world's a stage, And all the men and women merely players._
 
-![](.gitbook/assets/openstage.jpg)
+![](.gitbook/assets/openstage.jpeg)
 
 Photo by [Erik McLean](https://unsplash.com/@introspectivedsgn) on Unsplash
