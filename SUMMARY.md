@@ -11,14 +11,13 @@
 * [Tickets](how-to-get-in.md)
 * [Site](site.md)
 
-## FAQ
+## To be decided
+* [Unconference](tbd/unconference.md)
+* [Performances](tbd/performances.md)
 
+## FAQ
 [//]* [Participation](faq/participation.md)
 * [Filming and Photography](faq/filming-and-photography.md)
 * [Leave No Shit](faq/leave-no-shit.md)
 * [Emotional](emotional.md)
 * [Consent](consent.md)
-
-## To be decided
-* [Unconference](tbd/unconference.md)
-* [Performances](tbd/performances.md)
