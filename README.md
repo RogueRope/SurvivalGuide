@@ -11,7 +11,7 @@ Added by the fact that the C-thing prevented me of getting any form of Rogue Rop
 
 The setup is volunteer driven, **everyone needs to participate.** 
 
-This means: helping with food-preparation, cleaning, DM, making content, taking care of each other.
+This means: helping with food-preparation, cleaning, making content, taking care of each other.
 
 ## What does Rogue Rope provide?
 

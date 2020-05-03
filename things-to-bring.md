@@ -6,10 +6,9 @@ description: >-
 
 # Things to Bring.
 
-### Documents
+### Basics
 
-* Your order number 
-* Your ID
+* Your ticket order number 
 
 ### Accessories 
 

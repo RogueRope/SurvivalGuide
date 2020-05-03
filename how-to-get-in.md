@@ -8,13 +8,15 @@ description: What are the steps you need to take?
 
 Doing really well there! Almost done.
 
+(you didn't just skipped all the info to get on this page did you?)
+
 {% hint style="info" %}
 Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:support@roguerope.be).
 {% endhint %}
 
 ## Buy a ticket.
 
-No ticket: no entry. Buying a ticket is very easy and straightforward. We will open a ticket shop on the 11th of may. Tickets will be around 100 euro's per person, this includes lodging, food and drinks.
+No ticket: no entry. Buying a ticket is very easy and straightforward. We will open a ticket shop on May 11. Tickets will be around 100 euro's per person, this includes lodging, food and drinks.
 
 ## Stay safe.
 

@@ -8,7 +8,7 @@
 * [Play](play.md)
 * [Cancellation](cancellation.md)
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
-* [More Info](how-to-get-in.md)
+* [Tickets](how-to-get-in.md)
 * [Site](site.md)
 
 ## FAQ

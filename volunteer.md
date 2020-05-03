@@ -31,7 +31,7 @@ You can belong to **one** or **many** of them.
 
 Provide food and drinks to people, You help in the kitchen or behind the bar.  
 **You chop, slice, peel, heat, distribute and clean.**  
-Give a smile to people with the power of drinks and snacks.
+Give a smile to people with the power of your good vibes combined with drinks and snacks.
 
 ### Production
 

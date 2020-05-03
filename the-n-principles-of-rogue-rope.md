@@ -1,7 +1,6 @@
 ---
 description: >-
-  Loosely based on the Burning Man principles. Didn’t want to have
-  exactly 10 principles, smells like religion. So we have N principles, N is
+  Didn’t want to have  exactly 10 principles, smells like religion. So we have N principles, N is
   variable, could be more, could be less. Could change, might as well stay the same.
 ---
 
@@ -18,7 +17,7 @@ Everything is should free and open. if you don’t want something copied, adapte
 
 ## Communal Effort <a id="Communal-Effort"></a>
 
-Our community values creative cooperation and collaboration. We strive to produce, promote and protect social networks, public spaces, works of art, and methods of communication that support such interaction.
+Our community values creative cooperation and collaboration above competition and greed.
 
 ## Yes, you can! <a id="Yes-you-can"></a>
 
