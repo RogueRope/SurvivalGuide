@@ -6,10 +6,10 @@ description: So what's the plan?
 # What's this rope camp?
 
 ## The very short details
-* When : 13/08/2020 16.00 -> 16/08/2020 16.00
-* Where : Near Vielsalm
-* Cost : +/- 100€ 
-* Tickets: Shop will open around 11/05/2020
+* **When:** 13/08/2020 16.00 -> 16/08/2020 16.00
+* **Where:** Near Vielsalm
+* **Cost:** +/- 100€ 
+* **Tickets:** Shop will open around 11/05/2020
 
 ## Intro
 Since there wasn't anything happening during the lock-down and the foresight of a completely event-less summer scared me, I decided to set up this camp.
