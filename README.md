@@ -25,3 +25,9 @@ This is not a festival where there's a divide between the audience and the artis
 This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
 
 We create the stage, but **you** perform the show.
+
+## The very short details
+* When : 13/08/2020 16.00 -> 16/08/2020 16.00
+* Where : Near Vielsalm
+* Cost : +/- 100€ 
+* Tickets: Shop will open around 11/05/2020
