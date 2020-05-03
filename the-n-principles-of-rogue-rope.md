@@ -27,11 +27,11 @@ We value constructive anarchy. We believe in doing rather than talking. Don’t 
 ## Leave No Shit <a id="Leave-No-Shit"></a>
 
 If you use or borrow something, return it in a better state than when you received it.  
-We are committed not to stuff the orga with huge cleaning costs or efforts. The orga isn’t our mum.
+We are committed not to stuff the organizer with huge cleaning costs or efforts. The organizer isn’t our mum.
 
 ## Creative Capitalism <a id="Creative-Capitalism"></a>
 
-Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption *and* greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. 
+Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption *and* Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. 
 Cool people aren’t profit motivated, boring people are, _don’t be boring_.
 
 ## Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>

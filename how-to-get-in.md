@@ -14,20 +14,7 @@ Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:
 
 ## Buy a ticket.
 
-No ticket: no entry. Buying a ticket is very easy and straightforward.
-
-{% hint style="success" %}
-Go to [https://camp.roguerope.be](https://camp.roguerope.be) and buy a ticket. If for reasons of corona the vent is canceled you will receive 100% of your money back.
-{% endhint %}
-
-## Sign up for some shifts
-
-We need you to make this work, please share your time to make this great.
-
-{% hint style="warning" %}
-Go to [https://angels.roguerope.be](https://angels.roguerope.be) and make yourself an account there.   
-Next, register to do some shifts.
-{% endhint %}
+No ticket: no entry. Buying a ticket is very easy and straightforward. We will open a ticket shop on the 11th of may. Tickets will be around 100 euro's per person, this includes lodging, food and drinks.
 
 ## Stay safe.
 
@@ -45,7 +32,7 @@ Nothing much more to do than to take care of yourselves and your loved ones.
 The site is near Vielsalm, you can get there by car, but there's also a train station 2.5km away.
 
 {% hint style="success" %}
-We'll setup a whatsapp group and a car pooling sheet for driving to the site and back.
+We'll setup a whats-app group and a car pooling sheet for driving to the site and back.
 {% endhint %}
 
 ## Give your order number to the greeter.
