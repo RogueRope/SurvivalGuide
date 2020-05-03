@@ -13,6 +13,6 @@ Everybody started from zero, and we're always interested in learning to know new
 People that see tying as a competition have already lost it.
 
 ## Other play
-* Other play is welcome: wips, canes, chains, ductape, blood, fire. 
+* Other play is welcome: whips, canes, chains, duck-tape, blood, fire. 
 * We're not afraid of nudity or sex, the plan is to improvise a dark room as well.
 * Golden showers and scat are hard to do in a 'clean' way at the camp, so we'll need to draw the line there. 

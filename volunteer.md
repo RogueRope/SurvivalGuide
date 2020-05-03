@@ -42,7 +42,7 @@ But also, **cleaning**, improvising.
 
 ### Support
 
-Meeters and greeters, crowd control, tent oversight.  
+Welcome committee and greeters, crowd control, tent oversight.  
 Nudging people to do the right thing is your thing.  
 You know **a smile accomplishes more than a grumble**.  
 Candidates must agree to put on a fluorescent jacket.

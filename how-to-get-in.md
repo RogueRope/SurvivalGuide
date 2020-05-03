@@ -36,7 +36,7 @@ Nothing much more to do than to take care of yourselves and your loved ones.
 {% hint style="info" %}
 1. Stay at home, especially if you are sick.
 2. Wash your hands regularly with soap and water.
-3. Keep enough distance \(1.5 metres\) when outdoors.
+3. Keep enough distance \(1.5 meters\) when outdoors.
 4. Watch out for those most at risk.
 {% endhint %}
 

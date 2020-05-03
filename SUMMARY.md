@@ -14,7 +14,7 @@
 * [More Info](how-to-get-in.md)
 * [Site](site.md)
 
-## Faq
+## FAQ
 
 * [Participation](faq/participation.md)
 * [Filming and Photography](faq/filming-and-photography.md)
