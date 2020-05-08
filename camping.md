@@ -18,6 +18,8 @@ Other stuff to bring:
 
 ## Is there a possibility to sleep inside? 
 
-This depends, there is some room inside where you should be able to put an air mattress. For the moment, I'll reserve those spots for volunteers that do a lot of kitchen shifts. 
+This depends, there is some room inside where you should be able to put an air mattress. 
+
+For the moment, I'll reserve those spots for volunteers that will do a lot of kitchen shifts. 
 
 So ask not what rope camp can do for you, ask yourself what you can do for rope camp! Let us know maybe we'll be able to make a deal. 
