@@ -24,12 +24,6 @@ This is the pic that sold me on the property. I'm sure I don't have to tell you 
 
 There are changing rooms with showers, from what I've heard there should be enough warm water for everyone.
 
-## Camping site
-
-![](.gitbook/assets/site4.jpeg)
-
-Basic, with room for making a fire, bring your guitar and marshmallows. We'll try to get electricity to the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip.
-
 ## Map
 
 ![](.gitbook/assets/map.png)

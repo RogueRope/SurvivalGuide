@@ -9,6 +9,7 @@
 * [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
 * [Tickets](how-to-get-in.md)
 * [Site](site.md)
+* [Camping](camping.md)
 
 ## To be decided
 
