@@ -6,7 +6,7 @@ description: When stuff goes wrong.
 
 ## Corona Cancellation
 
-Let's start by addressing the very small elephant in the room: if the event is not legal under Belgian or local laws, the event shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
+Let's start by addressing the very small elephant in the room: if the event is not legal under Belgian or local laws, it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
 
 **So no risks there.**
 
