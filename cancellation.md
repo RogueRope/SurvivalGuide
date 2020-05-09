@@ -16,5 +16,5 @@ If you can't attend for personal reasons \(sickness, change of plans, ... \) you
 
 ## Early termination of the event.
 
-The amount of the ticket is non-refundable if the Event has started but is terminated early, due to harsh weather, acts of nature, governmental regulation or other conditions beyond our control.
+The amount of the ticket is non-refundable if the Event has started but is terminated early, due to harsh weather, acts of nature or other conditions beyond our control.
 
