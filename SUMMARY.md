@@ -6,7 +6,6 @@
 * [Food](food.md)
 * [Play](play.md)
 * [Cancellation](cancellation.md)
-* [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
 * [Tickets](how-to-get-in.md)
 * [Site](site.md)
 * [Camping](camping.md)
@@ -22,4 +21,5 @@
 * [Leave No Shit](faq/leave-no-shit.md)
 * [Emotional](faq/emotional.md)
 * [Consent](faq/consent.md)
+* [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
 

@@ -16,7 +16,7 @@ Other stuff to bring:
 * As mentioned, there will be a campfire-site. Please try to limit smoking to that area, fire safety is important.
 * If your smoke smells a bit funny, that's fine, no need to hide it in your tent.
 
-## Is there a possibility to sleep inside? 
+## Is there a possibility to sleep indoors? 
 
 This depends, there is some room inside where you should be able to put an air mattress. 
 
