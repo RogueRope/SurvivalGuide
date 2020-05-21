@@ -19,7 +19,6 @@ There are countless other ways to get involved, including:
 * Making music, a show, or a performance
 * But you can create your own way to participate!
 
-\[//\]**The good shifts are gone the fastest, please sign up here:** [**https://angels.roguerope.be/**](https://angels.roguerope.be/)
 
 ![Be a great person and rise to the challenge.](.gitbook/assets/giphy.webp)
 
