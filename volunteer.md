@@ -8,7 +8,7 @@
 
 Very simple, there's no-one employed, every participant, also the organizers pay for their ticket. We're in this boat together and we can make it conquer the seas or crash into a big ice cube. It's really up to us.
 
-So we need you to lend a hand. Please consider volunteering at least 1 shift. Please take into account that most shifts don't require constant work. For example a kitchen shift is usually counted at 3 hours, but most of it is 'being there'.
+So we need you to lend a hand. Please consider volunteering at least 1 time. Please take into account that most shifts don't require constant work. For example a kitchen shift is usually counted at 3 hours, but most of it is 'being there'.
 
 There are countless other ways to get involved, including:
 
@@ -48,7 +48,7 @@ Candidates must agree to put on a fluorescent jacket.
 
 ### What if there aren't enough volunteers?
 
-Upon arrival we will make assign shifts to the people who have got the smallest amounts of signed up hours. Let's hope this will work. :-\)
+Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
 
 ![](.gitbook/assets/aragorn-lets-do-this.gif)
 
