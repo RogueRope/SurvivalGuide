@@ -2,7 +2,7 @@
 
 ## What's MOOP?
 
-Everything you bring to the desert has the potential to become **MATTER OUT OF PLACE \(MOOP\)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, rope fibers, even sequins can all become MOOP. Every person is responsible for their rubbish.
+Everything you bring to the site has the potential to become **MATTER OUT OF PLACE \(MOOP\)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, even rope fibers can all become MOOP. Every person is responsible for their rubbish.
 
 ## What should I do with my rubbish?
 

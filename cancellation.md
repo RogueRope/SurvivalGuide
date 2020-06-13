@@ -6,7 +6,9 @@ description: When stuff goes wrong.
 
 ## Corona Cancellation
 
-Let's start by addressing the very small elephant in the room: if the event is not legal under Belgian or local laws, the event shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
+Let's start by addressing the very small elephant in the room: if the event is not legal under Belgian or local laws, it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
+
+If you are living in a foreign country, and you are not allowed by your local laws or Belgian laws to spend time with us, you can also get a refund.
 
 **UPDATE:** good news, rope camp, with a capacity of up to 50 ppl. is also completely legal within Covid limits. All systems go! 
 
