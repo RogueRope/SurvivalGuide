@@ -33,6 +33,10 @@ We are committed not to stuff the organizer with huge cleaning costs or efforts.
 
 Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption _and_ Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. Cool people aren’t profit motivated, boring people are, _don’t be boring_.
 
+## Consent: We accept patches. <a id="we-accept-patches"></a>
+
+Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [github](https://github.com/RogueRope/SurvivalGuide), submit your patches there. If you don't know how to do that, contact orga, we'll help you out. 
+
 ## Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>
 
 We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes.
