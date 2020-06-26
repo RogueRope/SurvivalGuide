@@ -22,7 +22,7 @@ Our community values creative cooperation and collaboration above competition an
 
 ## Yes, you can! <a id="Yes-you-can"></a>
 
-We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the crap you did to the state it was before.
+We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the stuff you did to the state it was before.
 
 ## Leave No Shit <a id="Leave-No-Shit"></a>
 
@@ -33,7 +33,7 @@ We are committed not to stuff the organizer with huge cleaning costs or efforts.
 
 Money is not the root of all evil but keeps people alive and planes in the air. Money is also the stuff the enables corruption _and_ Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. Cool people aren’t profit motivated, boring people are, _don’t be boring_.
 
-## Consent: We accept patches. <a id="we-accept-patches"></a>
+## We accept patches. <a id="we-accept-patches"></a>
 
 Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [github](https://github.com/RogueRope/SurvivalGuide), submit your patches there. If you don't know how to do that, contact orga, we'll help you out. 
 
