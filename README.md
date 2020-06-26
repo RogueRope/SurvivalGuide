@@ -12,7 +12,7 @@ description: So what's the plan?
 
 * **When:** 13/08/2020 16.00 -&gt; 16/08/2020 16.00
 * **Where:** Near Vielsalm
-* **Cost:** +/- 100€ 
+* **Cost:** 115€ 
 * **Tickets:** Shop will open around 11/05/2020
 
 ### Intro
