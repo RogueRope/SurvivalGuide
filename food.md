@@ -15,7 +15,7 @@ We provide **vegetarian** and **meat** options, anything beyond that is not with
 | 9-12 | Brunch | --/-- | Breakfast | Breakfast | Breakfast |
 | 15.00 | Soup | To be confirmed | Vegetable Soup | Tomato Soup | Leftovers |
 | 16.00 | Snacks | To be confirmed | Humus , bread | Olives, tapas | Leftovers |
-| 19-21 | Dinner | Hot-dogs | Spaghetti | BBQ | --/-- |
+| 19-21 | Dinner | Hot-dogs | Spaghetti | To be confirmed  | --/-- |
 
 As you can see, this is **not** a culinary event. If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you.
 
