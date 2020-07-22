@@ -49,5 +49,10 @@ Candidates must agree to put on a fluorescent jacket.
 
 Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
 
+### How To register?
+
+Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... 
+Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
+
 ![](.gitbook/assets/aragorn-lets-do-this.gif)
 

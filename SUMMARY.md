@@ -6,9 +6,11 @@
 * [Food](food.md)
 * [Play](play.md)
 * [Cancellation](cancellation.md)
+* [COVID](covid.md)
 * [Tickets](how-to-get-in.md)
 * [Site](site.md)
 * [Camping](camping.md)
+* [Contact](contact.md)
 
 ## To be decided
 
