@@ -15,15 +15,13 @@ We provide **vegetarian** and **meat** options, anything beyond that is not with
 | 9-12 | Brunch | --/-- | Breakfast | Breakfast | Breakfast |
 | 15.00 | Soup | To be confirmed | Vegetable Soup | Tomato Soup | Leftovers |
 | 16.00 | Snacks | To be confirmed | Humus , bread | Olives, tapas | Leftovers |
-| 19-21 | Dinner | Hot-dogs | Spaghetti | To be confirmed | --/-- |
+| 19-21 | Dinner | Hot-dogs | Spaghetti | Indian Food | --/-- |
 
 As you can see, this is **not** a culinary event. If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you.
 
 We will also provide coffee, tea, sparkling and still water free of charge for all participants.
 
 **At the bar:** For a small price, we will provide different beers, wine and soda's, ice creams, croque-monsieur, chips...
-
-If you want to help shaping the cooking crew or menu, let us know on support@roguerope.be.
 
 We will buy enough to provide for all participants, we will expect there will be left, and hope all participants take some home as to not waste food.
 
