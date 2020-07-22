@@ -13,6 +13,7 @@ description: >-
 ### Accessories
 
 * A solid cup \(reusable, no glasses\) for your water/tea/coffee/soup **~ CUP IS MANDATORY ~** 
+* Bring your own personal knife, fork and spoon.
 * A torch with enough batteries and/or LED head torches \(these are the best\) 
 * Water bottle 
 * Sunscreen
