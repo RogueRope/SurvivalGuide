@@ -10,7 +10,7 @@ Let's start by addressing the very small elephant in the room: if the event is n
 
 If you are living in a foreign country, and you are not allowed by your local laws or Belgian laws to spend time with us, you can also get a refund.
 
-**UPDATE:** good news, rope camp, with a capacity of up to 50 ppl. is also completely legal within Covid limits. All systems go! 
+**UPDATE:** good news, rope camp, with a capacity of up to 50 ppl. is also completely legal within Covid limits. All systems go!
 
 [Source](https://www.belgium.be/nl/corona): 'Sportieve en nu ook culturele activiteiten die worden georganiseerd en begeleid door een verantwoordelijke zijn beperkt tot 20 personen in juni en **50 personen in juli**, met inachtneming van de veiligheidsafstanden.'
 

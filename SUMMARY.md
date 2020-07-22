@@ -23,5 +23,5 @@
 * [Leave No Shit](faq/leave-no-shit.md)
 * [Emotional](faq/emotional.md)
 * [Consent](faq/consent.md)
-* [The N Principles of Rogue Rope](the-n-principles-of-rogue-rope.md)
+* [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
 

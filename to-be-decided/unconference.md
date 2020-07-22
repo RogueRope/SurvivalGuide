@@ -14,8 +14,9 @@ Four easy rules for unconference sessions
 * The fourth and final rule is: It’s over when it’s over.
 
 ## Todo now: Un-conference
-We'll follow the classical un-conference format with post-it notes. 
-Think ahead: 
+
+We'll follow the classical un-conference format with post-it notes. Think ahead:
+
 * what are topics/subject you'd like to see covered or would like to know more of? 
 * What are topic, subjects, workshops or activities you'd like to share with others?
 

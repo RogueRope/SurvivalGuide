@@ -19,7 +19,6 @@ There are countless other ways to get involved, including:
 * Making music, a show, or a performance
 * But you can create your own way to participate!
 
-
 ![Be a great person and rise to the challenge.](.gitbook/assets/giphy.webp)
 
 ### There are 3 types of angels:
@@ -47,12 +46,11 @@ Candidates must agree to put on a fluorescent jacket.
 
 ### What if there aren't enough volunteers?
 
-Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
+Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-\)
 
 ### How To register?
 
-Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... 
-Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
+Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
 
 ![](.gitbook/assets/aragorn-lets-do-this.gif)
 

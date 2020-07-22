@@ -16,7 +16,7 @@ Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:
 
 ## Buy a ticket.
 
-No ticket: no entry. Tickets are sold out. There's a waiting list here: https://forms.gle/zhN9XzN3Vq7cSNGP8
+No ticket: no entry. Tickets are sold out. There's a waiting list here: [https://forms.gle/zhN9XzN3Vq7cSNGP8](https://forms.gle/zhN9XzN3Vq7cSNGP8)
 
 ## Stay safe.
 
@@ -33,9 +33,10 @@ Nothing much more to do than to take care of yourselves and your loved ones.
 
 The site is near Vielsalm, you can get there by car, but there's also a train station 2.5km away.
 
-Carpool : 
-* https://camp.roguerope.be/carpool-going
-* https://camp.roguerope.be/carpool-return
+Carpool :
+
+* [https://camp.roguerope.be/carpool-going](https://camp.roguerope.be/carpool-going)
+* [https://camp.roguerope.be/carpool-return](https://camp.roguerope.be/carpool-return)
 
 ## Give your order number to the greeter.
 

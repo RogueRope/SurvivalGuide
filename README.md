@@ -39,6 +39,7 @@ This is a playground with a bunch of toys, an empty dance floor waiting to be fi
 
 We create the stage, but **you the participant** performs the show.
 
-### What isn't Rogue Rope Camp. 
+### What isn't Rogue Rope Camp.
 
 Rogue Rope Camp is not affiliated with "ROPE CAMP festival" from Aksa, near Toulouse, or with Shibari Camp in Denmark.
+
