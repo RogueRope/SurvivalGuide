@@ -1,5 +1,5 @@
 ---
-description: Where's the party?
+description: How to reach us?
 ---
 
 # Contact
