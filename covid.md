@@ -22,7 +22,3 @@ Anyway, [fuck'm and their law](https://www.youtube.com/watch?v=zKNoU2P0dQc), we'
 ## In case of symptoms: stay home!
 * Checklist [dutch](https://www.horeca.com/nl/corona) / [English](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 * **NEW: *Ticket refund*.** If you have a doctors advice telling you to quarantine, **ask to get it in writing**, forward this to the org and we'll refund the ticket of you *and* your partner. It's the least we can do. 
-
-
----------------------
-
