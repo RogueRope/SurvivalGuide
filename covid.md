@@ -9,11 +9,11 @@ We're following the situation day-by-day. It's very frustrating to see the infec
 
 ## Protocols 
 
-We're following 2 protocols,
+We're following 2 protocols:
 
-First one is the protocol for events. These where tightened 25/7, lowering the capacity to 100 people inside and 200 outside, which is well beyond our capacity of 49. We did the [official event scan](https://www.covideventriskmodel.be/) and we got a green label.
+First one is the protocol for events. These where tightened 26/7, lowering the capacity to 100 people inside and 200 outside, which is well beyond our capacity of 49. We did the [official event scan](https://www.covideventriskmodel.be/) and we got a green label.
 
-The second protocol, is for sport stages. We define Shibari/Bondage as a type of bodily exercise. In sport, bubbles are defined as 50 people. Here we follow the [current guidelines for sport](https://www.sport.vlaanderen/corona-en-sportbeoefening-in-vlaanderen/).
+The second protocol, is related to sport stages. We define Shibari/Bondage as a type of bodily exercise. In sport, bubbles are defined as 50 people. Here we follow the [current guidelines for sport](https://www.sport.vlaanderen/corona-en-sportbeoefening-in-vlaanderen/).
 
 This also means we follow the [Protocol for sportstages](https://www.sport.vlaanderen/media/13719/protocol-voor-sportkampenvolsen.pdf) for adults and seniors as defined by Sport Flanders.
 
