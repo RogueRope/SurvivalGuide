@@ -17,6 +17,11 @@ The second protocol, is related to sport stages. We define Shibari/Bondage as a 
 
 This also means we follow the [Protocol for sportstages](https://www.sport.vlaanderen/media/13719/protocol-voor-sportkampenvolsen.pdf) for adults and seniors as defined by Sport Flanders.
 
+## Some of the Covid changes
+* Move everything outside
+* There's no more buffet, you will go to a counter choose what you want, and take this outside.
+* The 2 shower rooms will only be used one bubble at the time.
+
 ## Some basic tips/rules/measures:
 
 We'll take our own precautions, here's to hoping for good weather so we can use the outside space as much as we can.
