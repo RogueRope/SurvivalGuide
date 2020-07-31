@@ -21,6 +21,7 @@ This also means we follow the [Protocol for sportstages](https://www.sport.vlaan
 * Move everything outside
 * There's no more buffet, you will go to a counter choose what you want, and take this outside.
 * The 2 shower rooms will only be used one couple at the time.
+* Doors will stay open, alcogel everywhere, ... 
 * The darkroom is canceled. :-(
 
 ## Some basic tips/rules/measures:
