@@ -37,7 +37,7 @@ We'll take our own precautions, here's to hoping for good weather so we can use 
 * We've asked you to bring a mug, now we also urge you to bring your own personal knife, fork and spoon. 
 * If you have any questions or concerns, don't hesitate to contact the orga people. 
 
-## alternative approach:
+## Alternative Approach
 
 It's perfectly ok to camp with us, explore the neighborhood with your partner and return in the evening for the open air social distanced rope jam. Plenty of stuff to look at and enjoy. 
 
