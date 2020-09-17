@@ -1,0 +1,22 @@
+{
+  "name": "survivalguide",
+  "version": "1.0.0",
+  "description": "![](../assets/splash.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogueRope/SurvivalGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogueRope/SurvivalGuide/issues"
+  },
+  "homepage": "https://github.com/RogueRope/SurvivalGuide#readme",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.0.6"
+  }
+}
