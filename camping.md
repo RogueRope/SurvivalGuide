@@ -1,7 +1,7 @@
 
 # Camping
 
-![A picture of the Camping site!](.gitbook/assets/site4.jpeg)
+![A picture of the Camping site!](../assets/site4.jpeg)
 
 As you can see, it's basic, with room for making a fire, bring your guitar and marshmallows. We'll get electricity to the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip.
 

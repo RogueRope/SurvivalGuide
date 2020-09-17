@@ -29,5 +29,5 @@
 * Pets.
 * Bad Vibes.
 
-![](.gitbook/assets/mug.jpeg)
+![](../assets/mug.jpeg)
 

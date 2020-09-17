@@ -19,7 +19,7 @@ There are countless other ways to get involved, including:
 * Making music, a show, or a performance
 * But you can create your own way to participate!
 
-![Be a great person and rise to the challenge.](.gitbook/assets/giphy.webp)
+![Be a great person and rise to the challenge.](../assets/giphy.webp)
 
 ### There are 3 types of angels:
 
@@ -52,5 +52,5 @@ Well, then the food won't be set up, the place won't get cleaned en nothing gets
 
 Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
 
-![](.gitbook/assets/aragorn-lets-do-this.gif)
+![](../assets/aragorn-lets-do-this.gif)
 

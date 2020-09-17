@@ -1,7 +1,7 @@
 
 # What's this rope camp?
 
-![](.gitbook/assets/splash.png)
+![](../assets/splash.png)
 
 ## What's this rope camp?
 
