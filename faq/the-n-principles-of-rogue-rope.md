@@ -1,10 +1,3 @@
----
-description: >-
-  Didn’t want to have  exactly 10 principles, smells like religion. So we have N
-  principles, N is variable, could be more, could be less. Could change, might
-  as well stay the same.
----
-
 # The N Principles of Rogue Rope
 
 ## Radical Self-responsibility <a id="Radical-Self-responsibility"></a>

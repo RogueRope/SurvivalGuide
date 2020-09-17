@@ -1,6 +1,3 @@
----
-description: What's for dinner?
----
 
 # Food
 

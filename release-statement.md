@@ -1,6 +1,3 @@
----
-description: You will be asked to sign this form upon entry.
----
 
 # Release Statement.
 

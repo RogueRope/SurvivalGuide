@@ -1,6 +1,3 @@
----
-description: The little C-thing.
----
 
 # COVID
 

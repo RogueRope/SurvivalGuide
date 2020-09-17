@@ -1,6 +1,3 @@
----
-description: What are the steps you need to take?
----
 
 # Tickets
 

@@ -1,6 +1,6 @@
 # Volunteer
 
-### description: 'Without working together, this won't work.'
+
 
 ## Volunteer
 

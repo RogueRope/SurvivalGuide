@@ -1,6 +1,3 @@
----
-description: When stuff goes wrong.
----
 
 # Cancellation
 

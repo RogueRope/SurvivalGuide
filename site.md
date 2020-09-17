@@ -1,6 +1,3 @@
----
-description: Where's the party?
----
 
 # Site
 

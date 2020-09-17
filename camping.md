@@ -1,6 +1,3 @@
----
-description: Do I need to bring my tent?
----
 
 # Camping
 

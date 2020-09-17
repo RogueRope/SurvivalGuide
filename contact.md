@@ -1,6 +1,3 @@
----
-description: How to reach us?
----
 
 # Contact
 

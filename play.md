@@ -1,6 +1,3 @@
----
-description: What's to do there?
----
 
 # Play
 

@@ -1,7 +1,3 @@
----
-description: Maybe we can do an unconference?
----
-
 # Unconference
 
 Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?

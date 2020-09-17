@@ -1,9 +1,3 @@
----
-description: >-
-  Let’s talk about YOU. You, what you need to know, and the stuff you need to
-  bring.
----
-
 # Things to Bring.
 
 ### Basics
