@@ -5,7 +5,7 @@ Expect basic "camp food": dishes we can make in large quantities without breakin
 
 ![](https://github.com/RogueRope/SurvivalGuide/tree/479c433893e936265600947b50b790f8519601d2/.gitbook/assets/image%20%284%29.png)
 
-We provide **vegetarian** and **meat** options, anything beyond that is not within the current capabilities of the kitchen. You are asked to make this choice when you sign up for a ticket. Note that people who've signed up as meat-eater are not allowed to eat the veggie stuff if it looks better.
+We provide **vegetarian** and **meat** options, anything beyond that is not within the current capabilities of the kitchen. You are asked to make this choice when you sign up for a ticket. Note that people who've signed up as meat-eater are not allowed to eat the veggie stuff if it looks better!
 
 | _Time_ | -- | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- |
