@@ -19,3 +19,5 @@
 
   Contact me on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515.
 
+  If you prefer email, hit me up on info@roguerope.be
+

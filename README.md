@@ -8,9 +8,9 @@
 ### The very short details
 
 * **When:** 13/08/2020 16.00 -&gt; 16/08/2020 16.00
-* **Where:** Near Vielsalm
-* **Cost:** 115€ 
-* **Tickets:** Shop will open around 11/05/2020
+* **Where:** East of Ghent, West of Antwerp
+* **Cost:** 100€ 
+* **Tickets:** Can be bought with voucher.
 
 ### Intro
 

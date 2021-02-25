@@ -8,7 +8,7 @@ Doing really well there! Almost done.
 \(you didn't just skipped all the info to get on this page did you?\)
 
 
-Do you have questions or comments? If so, mail to [support@roguerope.be](mailto:support@roguerope.be).
+Do you have questions or comments? If so, mail to [info@roguerope.be](mailto:info@roguerope.be).
 
 ## Buy a ticket.
 
@@ -27,7 +27,7 @@ Nothing much more to do than to take care of yourselves and your loved ones.
 
 ## Get at the location
 
-The site is near Vielsalm, you can get there by car, but there's also a train station 2.5km away.
+The site is in the Lokeren area, you can get there by car, but there's also a train station 2.5km away.
 
 Carpool :
 
@@ -36,7 +36,7 @@ Carpool :
 
 ## Give your order number to the greeter.
 
-You made it! Make sure to bring your order number, so we can verify payment, you will get a release statement to sign.
+You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a release statement to sign.
 
 Next we will measure your body temp, if it's above 37.2 C you will be asked to leave, no refunds.
 

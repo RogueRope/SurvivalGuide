@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What's this rope camp?](README.md)
+* [ChangeLog](changelog.md)
 * [Volunteer](volunteer.md)
 * [Things to Bring.](things-to-bring.md)
 * [Food](food.md)
