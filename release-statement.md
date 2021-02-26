@@ -5,7 +5,7 @@
 
 Rogue Rope is expliciet géén vzw, maar een feitelijke vereniging, dit wil kort gezegd zeggen dat alles wat tijdens de activiteit gebeurt volledig onder eigen verantwoordelijkheid van de deelnemers van de activiteit valt.
 
-Lang gezegd: 
+### Lang gezegd: 
 
 Een feitelijke vereniging heeft geen rechtspersoonlijkheid. Daarom kan het niet worden aangeklaagd. Leden van een feitelijke vereniging beroepen zich op hun persoonlijk patrimonium voor de verbintenissen die in naam van de feitelijke vereniging zijn aangegaan of die in geval van schade aan anderen is toegebracht. De aansprakelijkheid van de leden is dus onbeperkt, waarbij elk van hen in principe moet ingrijpen voor het proportionele deel van de schuld van de vereniging.
 
