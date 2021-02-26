@@ -9,5 +9,5 @@ If you want to do a performance, let us know on the event. We might do the perfo
 
 _All the world's a stage, And all the men and women merely players._
 
-![](../.gitbook/assets/image.png)
+![](../assets/image.png)
 
