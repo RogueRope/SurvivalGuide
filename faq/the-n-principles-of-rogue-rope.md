@@ -30,7 +30,7 @@ Money is not the root of all evil but keeps people alive and planes in the air. 
 
 Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [github](https://github.com/RogueRope/SurvivalGuide), submit your patches there. If you don't know how to do that, contact orga, we'll help you out.
 
-## Consent: ask before you fondle. <a id="Consent-ask-before-you-fondle"></a>
+## Consent: ask before you fondle. <a id="Solutions before shame"></a>
 
 We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes.
 
@@ -38,3 +38,8 @@ We want to create a setting where all parties participate in a physical encounte
 Creative Commons License  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
+
+## Solutions before shame. <a id="Solutions-before-shame"></a>
+
+Shizzle will go wrong. This is a given, but let's focus on cleaning up the shizzle rather than shaming others.
+For example things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game, explain your issue to the group and get people involved in cleaning up.
