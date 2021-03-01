@@ -7,16 +7,16 @@
 
 ### The very short details
 
-* **When:** 13/08/2020 16.00 -&gt; 16/08/2020 16.00
+* **When:** 19/08/2020 14.00 -&gt; 22/08/2020 16.00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 100€ 
 * **Tickets:** Can be bought with voucher.
 
 ### Intro
 
-Since there wasn't anything happening during the lock-down and the foresight of a completely event-less summer scared me, I decided to set up this camp.
+Since there wasn't anything happening during the lock-down and the foresight of a completely event-less summer scared me, I *once again* decided to set up this camp.
 
-Added by the fact that the C-thing prevented me of getting any form of Rogue Rope events going. The 'organizer' in me started to have a little itch. Fueled with the isolation of being at home, and a freshly installed computer I developed the idea, found a location and planned the basic infrastructure so far.
+Added by the fact that the C-thing prevented me of getting any form of Rogue Rope events going. The 'organizer' in me started to have a little itch. Fueled with the isolation of being at home, and a freshly installed computer I developed the idea, found a location and planned the basic infrastructure so far. Long story short, this is to get some *perspective*.
 
 The setup is volunteer driven, **everyone needs to participate.**
 
@@ -35,8 +35,3 @@ This is not a festival where there's a divide between the audience and the artis
 This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
 
 We create the stage, but **you the participant** performs the show.
-
-### What isn't Rogue Rope Camp.
-
-Rogue Rope Camp is not affiliated with "ROPE CAMP festival" from Aksa, near Toulouse, or with Shibari Camp in Denmark.
-
