@@ -1,7 +1,7 @@
 
 # What's this rope camp?
 
-![](../assets/splash.png)
+![](https://i.imgur.com/Qe39aI8.png)
 
 ## What's this rope camp?
 
