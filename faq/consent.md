@@ -16,7 +16,7 @@ At Project Respect, we believe that everyone has the right to sexuality without 
 
 ## Further reading.
 
-If you want to learn more on the subject, check this elaborate writeup by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
+If you want to learn more on the subject, check this elaborate write-up by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
 
 ![](../assets/ohyes.webp)
 
