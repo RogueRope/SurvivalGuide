@@ -29,7 +29,7 @@ Nothing much more to do than to take care of yourselves and your loved ones. Fol
 3. Keep enough distance \(1.5 meters\) when outdoors.
 4. Watch out for those most at risk.
 
-## Get at the location
+## Get to the location
 
 The site is in the Lokeren area, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
 
