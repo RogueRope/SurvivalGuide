@@ -25,4 +25,5 @@
 * [Emotional](faq/emotional.md)
 * [Consent](faq/consent.md)
 * [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
+* [Vouchers](faq/voucher.md)
 
