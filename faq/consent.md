@@ -14,7 +14,10 @@ At Project Respect, we believe that everyone has the right to sexuality without 
 
 **Consent** and open communication are key to positive sexual experiences for everyone involved.
 
-![](../.gitbook/assets/ohyes.webp)
+## Further reading.
 
-**If you want to help shaping the consent/dungeon crew, let me know on support@roguerope.be.**
+If you want to learn more on the subject, check this elaborate writeup by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
 
+![](../assets/ohyes.webp)
+
+**If you want to help shaping the consent/dungeon crew, let me know on info@roguerope.be.**
