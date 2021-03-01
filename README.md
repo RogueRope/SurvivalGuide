@@ -1,6 +1,3 @@
-
-# What's this rope camp?
-
 ![](https://i.imgur.com/JX0ypD2.png)
 
 ## What's this rope camp?
