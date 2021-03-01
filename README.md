@@ -34,4 +34,4 @@ This is not a festival where there's a divide between the audience and the artis
 
 This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
 
-We create the stage, but **you the participant** performs the show.
+We create the stage, but **you the participant** perform the show.

@@ -8,7 +8,7 @@
 * [Play](play.md)
 * [Cancellation](cancellation.md)
 * [COVID](covid.md)
-* [Tickets](how-to-get-in.md)
+* [How to get in](how-to-get-in.md)
 * [Site](site.md)
 * [Camping](camping.md)
 * [Contact](contact.md)
