@@ -11,9 +11,12 @@ We provide **vegetarian** and **meat** options, anything beyond that is not with
 | 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | Leftovers |
 | 19-21 | Dinner | Belgian Fries Truck | Pizza Buffet | BBQ | --/-- |
 
-As you can see, this is **not** a culinary event. If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you. We are open to help you though, and can provide those with specific needs access to the kitchen. Send a mail to info@roguerope.be to work something out.
+If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you. We are open to help you though, and can provide those with specific needs access to the kitchen. Send a mail to info@roguerope.be to work something out.
 
 We will also provide coffee, sparkling and still water free of charge for all participants.
+
+As you can see, this is **not** a culinary event, but we're lucky that Rob our chef de cuisine 
+
 
 ## What to bring yourself?
 * You bring your cooler, we will provide ice cubes!
