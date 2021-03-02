@@ -2,13 +2,18 @@
 
 ## Corona Cancellation
 
-Let's start by addressing the very small elephant in the room: if the event is not legal under Belgian or local laws, it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
+Let's start by addressing the elephant in the room: if the event is not legal under Belgian or local laws, it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
 
-If you are living in a foreign country, and you are not allowed by your local laws or Belgian laws to spend time with us, you can also get a refund.
+If you are living in a foreign country, and you are not allowed by your local laws or Belgian laws to spend time with us, you can also get a full refund.
+
+## Orga Cancelation
+
+In case something happens which makes us cancel the camp, for example sickness of the orga crew, you will get a full refund.
 
 ## Personal Cancellation
 
-If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know so we can assist you with this, the assumption is we'll be working with a waiting list. 
+If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know so we can update the guest list and send the last minute info to the new ticket holder.
+If you don't know anyone to take your ticket, and we have people on the waiting list, you can get a refund of 85% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to make you a deal. Also in this case send an [contact the orga](contact.md).
 
 ## Early termination of the event.
 

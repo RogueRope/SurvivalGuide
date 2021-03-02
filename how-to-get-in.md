@@ -20,14 +20,15 @@ Sadly, we assume that it will be fully booked when this pre-sale is over. We wer
 
 Looking forward to next year, the plan is to double the available capacity, so more new people will have a chance to sign up.
 
+## Timeline
+
+* March: mails will be sent out with vouchers to the people that participated.
+* After two weeks, vouchers will be sent to people on the [mailing list](https://roguerope.be/pages/newsletter.html).
+* 
+
 ## Stay safe.
 
-Nothing much more to do than to take care of yourselves and your loved ones. Follow the guidelines as defined by the governement.
-
-1. Stay at home, especially if you are sick.
-2. Wash your hands regularly with soap and water.
-3. Keep enough distance \(1.5 meters\) when outdoors.
-4. Watch out for those most at risk.
+Nothing much more to do than to take care of yourselves and your loved ones. Follow the guidelines as defined by the authorities.
 
 ## Get to the location
 
