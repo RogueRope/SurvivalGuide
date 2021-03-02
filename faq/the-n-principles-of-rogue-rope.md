@@ -41,5 +41,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Solutions before shame. <a id="Solutions-before-shame"></a>
 
-Shizzle will go wrong. This is a given, but let's focus on cleaning up the shizzle rather than shaming others.
-For example things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game, explain your issue to the group and get people involved in cleaning up.
+Shizzle will go wrong. This is a given, but let's focus on cleaning up the shizzle rather than blaming others.
+
+For example: things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game, explain your issue to the group and get people involved in cleaning up. 
+
+Empathy is encouraged. In this example, empathy from the people that don't mind mess towards the people that don't feel happy with it, but also from the clean freaks towards the people that don't mind it so much.

@@ -6,7 +6,7 @@
 
 Very simple, there's no-one employed, every participant, also the organizers pay for their ticket. We're in this boat together and we can make it conquer the seas or crash into a big ice cube. It's really up to us.
 
-So we need you to lend a hand. Please consider volunteering at least 1 time. Please take into account that most shifts don't require constant work. For example a kitchen shift is usually counted at 3 hours, but most of it is 'being there'.
+So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work. 
 
 There are countless other ways to get involved, including:
 
@@ -49,6 +49,8 @@ Well, then the food won't be set up, the place won't get cleaned en nothing gets
 ### How To register?
 
 Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
+
+You will be asked to do this when you check in.
 
 ![](../assets/aragorn-lets-do-this.gif)
 

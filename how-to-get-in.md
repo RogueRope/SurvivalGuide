@@ -42,6 +42,8 @@ Our camping ground is 200m from the road, you can drive up, take out your bags, 
 
 You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a release statement to sign.
 
+You will get a shift of work... this could be cleaning up, going to the bakery or making sure the fire is hot, we will ask you to put your name down.
+
 Next we will measure your body temp, if it's above 37.2 C you will be asked to leave.
 
 If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
