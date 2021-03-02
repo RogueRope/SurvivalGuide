@@ -15,7 +15,7 @@ If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm ve
 
 We will also provide coffee, sparkling and still water free of charge for all participants.
 
-As you can see, this is **not** a culinary event, but we're lucky that Rob our chef de cuisine 
+As you can see, this is **not** a culinary event, but we're lucky that Rob our *chef de cuisine extraordinaire* will join us for another time. So prepare your taste buds for some nice surprises. 
 
 
 ## What to bring yourself?
