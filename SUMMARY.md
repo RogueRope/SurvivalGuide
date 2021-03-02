@@ -9,7 +9,6 @@
 * [Cancellation](cancellation.md)
 * [COVID](covid.md)
 * [How to get in](how-to-get-in.md)
-* [Site](site.md)
 * [Camping](camping.md)
 * [Contact](contact.md)
 
