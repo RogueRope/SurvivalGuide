@@ -10,7 +10,11 @@ If that you have a dispute with someone about photography, please let the organi
 
 If you have any questions about photography or filming at Rope Camp, please email [support@roguerope.be](mailto:support@roguerope.be)
 
+## Do not post pictures of the campsite!
+
+The campsite offers us privacy, so we should respect theirs. This means you are extra careful when it comes to publishing pictures where the campsite is recognizable. A tree isn't recognizable, the building, signs and interior are. Take this into account when taking a picture, but mostly posting online. Feel free to take pics of the site for personal use. 
+If we spot a picture that shows clearly where the event took place we will spank your bottom and ask you to edit it or take it down. This **includes** Fetlife.
+
 ## DRONES. Can I fly my drone at Rope Camp?
 
 Yes, but respect relevant laws and be cool.
-
