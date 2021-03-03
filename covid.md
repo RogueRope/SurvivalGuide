@@ -1,7 +1,9 @@
 
 # COVID
 
-We're following the situation day-by-day. It's very frustrating to see the infections rise again. We don't have a crystal ball so it's hard to forecast what will happen. 
+It's too soon to make solid predictions. The assumption is that, like in 2020, contact-sport activities will be allowed in bubbles of 50 people. We'll see how it evolves over time. 
+
+To give you some idea, we take the situation seriously and operate within the boundaries set by the law. This is **not** an illegal gathering.
 
 ## Protocols (info from 2020, needs update)
 
@@ -11,13 +13,13 @@ First one is the protocol for events. These where tightened 26/7, lowering the c
 
 The second protocol, is related to sport stages. We define Shibari/Bondage as a type of bodily exercise. In sport, bubbles are defined as 50 people. Here we follow the [current guidelines for sport](https://www.sport.vlaanderen/corona-en-sportbeoefening-in-vlaanderen/).
 
-This also means we follow the [Protocol for sportstages](https://www.sport.vlaanderen/media/13719/protocol-voor-sportkampenvolsen.pdf) for adults and seniors as defined by Sport Flanders.
+This also means we follow the [Protocol for sport](https://www.sport.vlaanderen/media/13719/protocol-voor-sportkampenvolsen.pdf) for adults and seniors as defined by Sport Flanders.
 
 ## Some of the Covid changes
 * Move everything outside
 * There's no more buffet, you will go to a counter choose what you want, and take this outside.
 * The 2 shower rooms will only be used one couple at the time.
-* Doors will stay open, alcogel everywhere, ... 
+* Doors will stay open, alco-gel everywhere, ... 
 * The darkroom is canceled. :-(
 
 ## Some basic tips/rules/measures:
@@ -26,7 +28,7 @@ We'll take our own precautions, here's to hoping for good weather so we can use 
 
 
 * **Always** have your mask _with_ you, we will provide some masks for you if you forgot. Maybe some situation will arise where the org decides it's strictly necessary and you will be asked to put it on. If such a situation should arise, you should be able to put it on.
-* Respect people's boundaries, we'll take the 1.5 meter rule as a guideline, if you want to deviate from that, you ask the persons involved. This also implies keeping distance when queueing for stuff.
+* Respect people's boundaries, we'll take the 1.5 meter rule as a guideline, if you want to deviate from that, you ask the persons involved. This also implies keeping distance when queuing for stuff.
 * We will take temps of all visitors, but this does unfortunately **not** mean everyone is healthy and we can go lie in a big pike exchanging fluids. Asymptomatic people can still transmit. 
 * Furthermore we've taken different steps to lower chances of infection. 
 * We do take things seriously, **we're not having an illicit zero-fucks-given party in the woods**, but a legit, small scale, corona-proof event.
@@ -35,7 +37,7 @@ We'll take our own precautions, here's to hoping for good weather so we can use 
 
 ## Alternative Approach
 
-It's perfectly ok to camp with us, explore the neighborhood with your partner and return in the evening for the open air social distanced rope jam. Plenty of stuff to look at and enjoy. 
+It's perfectly OK to camp with us, explore the neighborhood with your partner and return in the evening for the open air social distanced rope jam. Plenty of stuff to look at and enjoy. 
 
 ## In case of symptoms: stay home!
 

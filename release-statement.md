@@ -1,4 +1,3 @@
-
 # Release Statement.
 
 ## Rogue Rope  vrijwaring formulier

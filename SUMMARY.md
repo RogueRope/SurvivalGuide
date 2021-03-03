@@ -3,14 +3,13 @@
 * [Intro](README.md)
 * [ChangeLog](changelog.md)
 * [Volunteer](volunteer.md)
-* [Things to Bring.](things-to-bring.md)
 * [Food](food.md)
 * [Play](play.md)
-* [Cancellation](cancellation.md)
-* [COVID](covid.md)
 * [How to get in](how-to-get-in.md)
 * [Camping](camping.md)
-* [Contact](contact.md)
+* [Things to Bring.](things-to-bring.md)
+* [COVID](covid.md)
+* [Cancellation](cancellation.md)
 
 ## To be decided
 
@@ -23,6 +22,7 @@
 * [Leave No Shit](faq/leave-no-shit.md)
 * [Emotional](faq/emotional.md)
 * [Consent](faq/consent.md)
+* [Participate](faq/participation.md)
 * [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
 * [Vouchers](faq/voucher.md)
-
+* [Contact](contact.md)

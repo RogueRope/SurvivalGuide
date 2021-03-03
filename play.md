@@ -2,7 +2,7 @@
 
 ## Rope play
 
-Traditionally we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake with RR. Don't know how this started, but want to stress this is _not_ the case. Everyone is welcome, everyone that wants info should feel free to come and learn. Also if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine.
+Traditionally we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake with RR. Don't know how this started, but want to stress this is _not_ the case. Everyone is welcome, everyone that wants to play with ropes should feel free to come and learn. Also if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine.
 
 But if you want to try new stuff and have someone spot you, that's fine as well.
 

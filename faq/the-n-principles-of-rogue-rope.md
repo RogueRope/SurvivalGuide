@@ -28,7 +28,7 @@ Money is not the root of all evil but keeps people alive and planes in the air. 
 
 ## We accept patches. <a id="we-accept-patches"></a>
 
-Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [github](https://github.com/RogueRope/SurvivalGuide), submit your patches there. If you don't know how to do that, contact orga, we'll help you out.
+Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [GitHub](https://github.com/RogueRope/SurvivalGuide), submit your patches there. If you don't know how to do that, contact orga, we'll help you out.
 
 ## Consent: ask before you fondle. <a id="Solutions before shame"></a>
 
