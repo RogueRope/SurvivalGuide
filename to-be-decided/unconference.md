@@ -15,6 +15,3 @@ We'll follow the classical un-conference format with post-it notes. Think ahead:
 
 * what are topics/subject you'd like to see covered or would like to know more of? 
 * What are topic, subjects, workshops or activities you'd like to share with others?
-
-![](../assets/image%20%285%29.png)
-
