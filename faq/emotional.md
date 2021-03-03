@@ -18,7 +18,9 @@ Rogue rope mindset is: we never look for blame or shame, we are always focused o
 
 ## Couples
 
-Spend all the time together you want, but leave room for yourself and your interests, too. Remember that there are many new friends for you each to meet as well, so each of you should feel encouraged to spend time with other people as well as each other. Still, be sure to schedule plenty of ‘dates’ together, and keep them. Just make sure that you honor your time together, but also apart.
+Spend all the time together you want, but leave room for yourself and your interests, too. Remember that there are many new friends for you each to meet as well, so each of you should feel encouraged to spend time with other people as well as each other. 
+
+Still, be sure to schedule plenty of ‘dates’ together, and keep them. Just make sure that you honor your time together, but also apart.
 
 ![](../assets/hug.webp)
 
