@@ -1,4 +1,4 @@
-![](../assets/newlogo.png)
+![](./assets/newlogo.png)
 
 ## What's this rope camp?
 

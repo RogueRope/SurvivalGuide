@@ -33,5 +33,5 @@
 * Pets.
 * Bad Vibes.
 
-![](../assets/mug.jpeg)
+![](./assets/mug.jpeg)
 

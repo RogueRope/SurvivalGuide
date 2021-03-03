@@ -3,7 +3,7 @@
 ## How will this work?
 A 'voucher' is a unique code that you can use to buy a ticket.
 
-![](https://i.imgur.com/BrbEyYo.gif)
+![](../assets/voucher.gif)
 
 ## Vouchers are personal!
 If someone got a voucher for participating last year, and will not join us this year, the voucher is void. 

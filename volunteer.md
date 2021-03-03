@@ -4,7 +4,7 @@
 
 #### We _need_ you to volunteer!
 
-Very simple, there's no-one employed, every participant, also the organizers pay for their ticket. We're in this boat together and we can make it conquer the seas or crash into a big ice cube. It's really up to us.
+Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us.
 
 So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work. 
 
@@ -17,7 +17,7 @@ There are countless other ways to get involved, including:
 * Making music, a show, or a performance
 * But you can create your own way to participate!
 
-![Be a great person and rise to the challenge.](../assets/giphy.webp)
+![Be a great person and rise to the challenge.](./assets/giphy.webp)
 
 ### There are 3 types of angels:
 
@@ -52,5 +52,5 @@ Initially we set up a fancy volunteering website platform, but on second thought
 
 You will be asked to do this when you check in.
 
-![](../assets/aragorn-lets-do-this.gif)
+![](./assets/aragorn-lets-do-this.gif)
 
