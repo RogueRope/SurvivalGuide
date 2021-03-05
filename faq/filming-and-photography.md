@@ -12,11 +12,14 @@ If you have any questions about photography or filming at Rope Camp, please emai
 
 ## Do not post pictures of the campsite!
 
-The campsite offers us privacy, so we should respect theirs. This means you are extra careful when it comes to publishing pictures where the campsite is recognizable. A tree isn't recognizable, the building, signs and interior are. 
+Please do not publish identifiable pictures of the location. This includes the building, certain signs or plaques, etc... A tree isn't recognizable, the building, signs and interior are. 
+We want to keep using the site for the coming years events, do not burn our location. The site provides us with privacy, and we should be able to return the favor. The site did not consent to be photographed and published, so just don't.  
 
 Take this into account when taking a picture, but particularly when posting online. Feel free to take pics of the site for personal use.
 
 If we spot a picture that shows clearly where the event took place we will spank your bottom and ask you to edit it or take it down. This **includes** Fetlife.
+
+If you want to make a picture of someone where identifiable parts are in the background, feel free, just don't publish them. Take extra care in regards to social media, you might think it's fun to have an pseudo-anonymous insta, fb, youtube or twitter, but when you publish a picture often more is uploaded than you might assume.
 
 ## Can I fly my drone at Rope Camp?
 
