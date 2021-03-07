@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
-* [ChangeLog](changelog.md)
+* [Changes](changelog.md)
 * [Volunteer](volunteer.md)
 * [Food](food.md)
 * [Play](play.md)
