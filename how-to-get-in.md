@@ -34,7 +34,9 @@ Nothing much more to do than to take care of yourselves and your loved ones. Fol
 
 The site is in the Lokeren area, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
 
-Our camping ground is 200m from the road, you can drive up, take out your bags, check in, but after that you need to park your car back on the main road. Take into account: you cannot drive with your car on the camping area! So the last 30 meters or so, you need to schlep your stuff.
+Our camping ground is 200m from the road, you can drive up, take out your bags, check in, but after that you need to park your car back on the main road. Take into account: you cannot drive with your car on the camping area! So the last 30 meters or so, you need to drag your stuff for the last meters.
+
+If you bring a camper we will be able to put that on the field using our combined people-power, same goes for trailers.  
 
 ![](https://giphy.com/embed/26tk1KT57P93lzgSk)
 
