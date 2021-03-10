@@ -1,17 +1,15 @@
-# Shirt
+# Merch!
 
-The design of the shirts is a surprise, picture hasn't been released yet.
-
-## Close fitting shirt with room for boobies.
-![](./assets/shirt-f.jpg)
+When you order a ticket, you have the option to buy a t-shirt for 20€. 
 
 * Fair and sustainable
 * Durable fabrics. 150 g/m²
 * Material: 100% cotton 
 
-## Basic 'Classic' T-shirt.
-![](./assets/shirt-m.jpg)
+## Close fitting shirt with room for boobies.
+![](./assets/f-shirts.png)
+![](./assets/f-size.png)
 
-* Fair and sustainable
-* Durable fabrics. 150 g/m²
-* Material: 100% cotton
+## Basic 'Classic' T-shirt.
+![](./assets/m-shirts.png)
+![](./assets/m-size.png)
