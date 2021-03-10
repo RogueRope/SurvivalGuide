@@ -5,11 +5,11 @@
 * [Volunteer](volunteer.md)
 * [Food](food.md)
 * [Play](play.md)
-* [How to get in](how-to-get-in.md)
 * [Camping](camping.md)
 * [Things to Bring.](things-to-bring.md)
 * [COVID](covid.md)
 * [Cancellation](cancellation.md)
+* [How to get in](how-to-get-in.md)
 
 ## To be decided
 
