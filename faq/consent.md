@@ -20,4 +20,4 @@ If you want to learn more on the subject, check this elaborate write-up by [La Q
 
 ![](../assets/ohyes.webp)
 
-**If you want to help shaping the consent/dungeon crew, let me know on info@roguerope.be.**
+**If you want to help shaping the consent/dungeon crew, [contact us](contact.md).**

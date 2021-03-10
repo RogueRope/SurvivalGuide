@@ -25,4 +25,6 @@
 * [Participate](faq/participation.md)
 * [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
 * [Vouchers](faq/voucher.md)
+* [Mech](shirt.md)
 * [Contact](contact.md)
+
