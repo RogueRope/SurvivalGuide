@@ -1,6 +1,4 @@
----
-title: Filming and Photography
----
+
 # Filming and Photography
 
 ## For all of us

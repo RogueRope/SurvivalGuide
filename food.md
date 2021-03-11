@@ -1,6 +1,4 @@
----
-title: Food
----
+
 # Food
 
 Expect basic "camp food": dishes we can make in large quantities without breaking the bank. There should be enough for everybody.

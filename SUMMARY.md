@@ -1,6 +1,4 @@
----
-title: Summary
----
+
 # Table of contents
 
 * [Intro](README.md)

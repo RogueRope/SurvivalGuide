@@ -1,6 +1,4 @@
----
-title: Vouchers
----
+
 # Vouchers
 
 ## How will this work?

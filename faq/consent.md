@@ -1,6 +1,4 @@
----
-title: Consent
----
+
 # Consent
 
 **Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games.**

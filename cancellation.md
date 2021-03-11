@@ -1,6 +1,4 @@
----
-title: Cancellation
----
+
 # Cancellation
 
 ## Corona Cancellation

@@ -1,6 +1,4 @@
----
-title: Unconference
----
+
 # Unconference
 
 Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?

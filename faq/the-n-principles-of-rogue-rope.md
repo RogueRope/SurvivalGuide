@@ -1,6 +1,4 @@
----
-title: The N Principles of Rogue Rope
----
+
 # The N Principles of Rogue Rope
 
 These principles are a remix of the [burning man principles](https://burningman.org/culture/philosophical-center/10-principles/), [the hackerspace blueprint](https://hackerspace.design/) and some stuff we made up ourselves.

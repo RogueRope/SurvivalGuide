@@ -1,6 +1,4 @@
----
-title: How to get in?
----
+
 # How to get in?
 
 ## Read This document.
