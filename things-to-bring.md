@@ -1,7 +1,3 @@
----
-title: Things to Bring
-
----
 # Things to Bring.
 
 ### Basics
