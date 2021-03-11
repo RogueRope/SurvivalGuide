@@ -1,5 +1,5 @@
 ---
-title: Leave No Shit
+title: How to get in?
 ---
 # How to get in?
 

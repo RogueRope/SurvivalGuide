@@ -1,3 +1,6 @@
+---
+title: Play
+---
 # Play
 
 ## Rope play

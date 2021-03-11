@@ -1,5 +1,5 @@
 ---
-title: Leave No Shit
+title: The N Principles of Rogue Rope
 ---
 # The N Principles of Rogue Rope
 

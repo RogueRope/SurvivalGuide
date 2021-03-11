@@ -1,5 +1,5 @@
 ---
-title: Leave No Shit
+title: Things to Bring.
 ---
 # Things to Bring.
 

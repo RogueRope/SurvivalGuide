@@ -1,5 +1,5 @@
 ---
-title: Leave No Shit
+title: Summary
 ---
 # Table of contents
 
