@@ -7,20 +7,9 @@ Very simple, there's no-one employed, every participant pays for their ticket. W
 
 So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work.
 
-There are countless other ways to get involved, including:
+### There are different ways to help
 
-* Arriving early for build or staying after for clean up
-* Helping to transport stuff there
-* Creating and bringing art
-* Running a workshop
-* Making music, a show, or a performance
-* But you can create your own way to participate!
-
-![Be a great person and rise to the challenge.](./assets/giphy.webp)
-
-### There are 3 types of angels:
-
-You can belong to **one** or **many** of them.
+You can choose one **one** or **many** of them.
 
 #### Kitcheneer
 
@@ -44,6 +33,19 @@ Candidates must agree to put on a fluorescent jacket.
 ### What if there aren't enough volunteers?
 
 Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
+
+### Other ways to help 
+
+There are countless other ways to get involved, including:
+
+* Arriving early for build or staying after for clean up
+* Create and bring art
+* Running a workshop
+* Makemusic, put on a show, or do a performance
+* Feel free to create your own way to participate!
+
+![Be a great person and rise to the challenge.](./assets/giphy.webp)
+
 
 ### How To register?
 
