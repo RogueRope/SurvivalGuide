@@ -10,12 +10,12 @@ sections:
   create: documents
   match: "*.md"
 - type: directory
-  path: "./faq"
+  path: "./faq/."
   label: Faq
   create: documents
-  match: "**/*"
+  match: "*.md"
 - type: directory
-  path: "./to-be-decided"
+  path: "./to-be-decided/."
   label: to-be-decided
   create: documents
   match: "**/*"
