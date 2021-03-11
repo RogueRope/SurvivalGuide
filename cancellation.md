@@ -8,7 +8,7 @@ If you are living in a foreign country, and you are not allowed by your local la
 
 ## Orga Cancelation
 
-In case something happens which makes us cancel the camp, for example sickness of the orga crew, you will get a full refund.
+In case something happens which forces us to cancel the camp, you will get a full refund.
 
 ## Personal Cancellation
 
