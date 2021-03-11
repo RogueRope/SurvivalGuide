@@ -1,5 +1,6 @@
 ---
-title: Things to Bring.
+title: Things to Bring
+
 ---
 # Things to Bring.
 
@@ -37,4 +38,3 @@ title: Things to Bring.
 * Bad Vibes.
 
 ![](./assets/mug.jpeg)
-
