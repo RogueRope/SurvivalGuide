@@ -5,21 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: "./to-be-decided"
-  label: to-be-decided
-  create: documents
-  match: "**/*"
-- type: directory
   path: "."
   label: Main Pages
   create: documents
   match: "*.md"
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: directory
   path: "./faq"
   label: Faq
+  create: documents
+  match: "**/*"
+- type: directory
+  path: "./to-be-decided"
+  label: to-be-decided
   create: documents
   match: "**/*"
 upload_dir: assets
