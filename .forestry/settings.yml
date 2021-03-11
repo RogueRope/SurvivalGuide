@@ -1,12 +1,24 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
+- type: directory
+  path: "."
+  label: Main Pages
+  create: documents
+  match: "*.md"
+- type: directory
+  path: "./faq"
+  label: Faq
+  create: documents
+  match: "*.md"
+- type: directory
+  path: "./to-be-decided"
+  label: to-be-decided
+  create: documents
+  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''

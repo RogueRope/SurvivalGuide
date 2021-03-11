@@ -1,4 +1,6 @@
+---
 
+---
 # Volunteer
 
 #### We _need_ you to volunteer!
@@ -13,7 +15,7 @@ You can choose one **one** or **many** of them.
 
 #### Kitcheneer
 
-Provide food and drinks to people, You help in the kitchen or behind the bar.  
+Provide food and drinks to people, You help in the kitchen.  
 **You chop, slice, peel, heat, distribute and clean.**  
 Give a smile to people with the power of your good vibes combined with drinks and snacks.
 
@@ -34,7 +36,7 @@ Candidates must agree to put on a fluorescent jacket.
 
 Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
 
-### Other ways to help 
+### Other ways to help
 
 There are countless other ways to get involved, including:
 
@@ -45,7 +47,6 @@ There are countless other ways to get involved, including:
 * Feel free to create your own way to participate!
 
 ![Be a great person and rise to the challenge.](./assets/giphy.webp)
-
 
 ### How To register?
 
