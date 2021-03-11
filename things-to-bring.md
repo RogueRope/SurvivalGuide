@@ -1,3 +1,6 @@
+---
+title: Leave No Shit
+---
 # Things to Bring.
 
 ### Basics

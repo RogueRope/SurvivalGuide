@@ -1,3 +1,6 @@
+---
+title: Leave No Shit
+---
 ![](./assets/newlogo.png)
 
 ## What's this rope camp?

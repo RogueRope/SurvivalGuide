@@ -1,3 +1,6 @@
+---
+title: Leave No Shit
+---
 # Leave No Shit
 
 ## What's MOOP?

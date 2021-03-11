@@ -1,3 +1,6 @@
+---
+title: Leave No Shit
+---
 # Merch!
 
 When you order a ticket, you have the option to buy a t-shirt for 20€. 

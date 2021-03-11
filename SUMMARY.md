@@ -1,3 +1,6 @@
+---
+title: Leave No Shit
+---
 # Table of contents
 
 * [Intro](README.md)
