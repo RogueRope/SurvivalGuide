@@ -1,4 +1,3 @@
-
 # Filming and Photography
 
 ## For all of us

@@ -1,4 +1,3 @@
-
 # Vouchers
 
 ## How will this work?

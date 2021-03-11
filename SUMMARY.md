@@ -1,4 +1,3 @@
-
 # Table of contents
 
 * [Intro](README.md)
@@ -7,7 +6,7 @@
 * [Food](food.md)
 * [Play](play.md)
 * [Camping](camping.md)
-* [Things to Bring.](things-to-bring.md)
+* [Things to Bring](things-to-bring.md)
 * [COVID](covid.md)
 * [Cancellation](cancellation.md)
 * [How to get in](how-to-get-in.md)

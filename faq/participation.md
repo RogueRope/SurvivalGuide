@@ -1,4 +1,3 @@
-
 # Participation
 
 ## I’d like to help out, but honestly, I have no skills. What can I do?

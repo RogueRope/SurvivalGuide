@@ -1,4 +1,3 @@
-
 # Cancellation
 
 ## Corona Cancellation

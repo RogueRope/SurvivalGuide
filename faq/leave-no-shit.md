@@ -1,4 +1,3 @@
-
 # Leave No Shit
 
 ## What's MOOP?

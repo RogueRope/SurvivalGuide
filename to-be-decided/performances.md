@@ -1,4 +1,3 @@
-
 # Performances
 
 Maybe we can do some performances on Friday, doesn't have to be rope.  

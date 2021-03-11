@@ -1,4 +1,3 @@
-
 # COVID
 
 It's too soon to make solid predictions. The assumption is that, like in 2020, contact-sport activities will be allowed in bubbles of 50 people. We'll see how it evolves over time. 

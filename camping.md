@@ -1,6 +1,4 @@
-
 # Camping
-
 
 It's a field, it's basic, with room for a campfire, so bring your guitar and marshmallows. We'll distribute electricity on the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip. This way you can charge your mobile devices while you sleep.
 
