@@ -5,9 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: faq
+  path: "./faq"
   label: Faq
-  create: all
+  create: documents
   match: "**/*"
 - type: jekyll-pages
   label: Pages
