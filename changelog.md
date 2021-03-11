@@ -1,6 +1,3 @@
----
-
----
 # What's different from last year?
 
 ## Food
