@@ -1,12 +1,13 @@
-# Volunteer
+---
 
-## Volunteer
+---
+# Volunteer
 
 #### We _need_ you to volunteer!
 
 Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us.
 
-So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work. 
+So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work.
 
 There are countless other ways to get involved, including:
 
@@ -44,7 +45,7 @@ Candidates must agree to put on a fluorescent jacket.
 
 ### What if there aren't enough volunteers?
 
-Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-\)
+Well, then the food won't be set up, the place won't get cleaned en nothing gets done. But we can still go outside to lay down in a puddle of mud. :-)
 
 ### How To register?
 
@@ -53,4 +54,3 @@ Initially we set up a fancy volunteering website platform, but on second thought
 You will be asked to do this when you check in.
 
 ![](./assets/aragorn-lets-do-this.gif)
-
