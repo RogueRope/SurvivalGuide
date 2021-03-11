@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: "./to-be-decided"
+  label: to-be-decided
+  create: documents
+  match: "**/*"
+- type: directory
   path: "."
   label: Main Pages
   create: documents
