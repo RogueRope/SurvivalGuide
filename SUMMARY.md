@@ -12,11 +12,6 @@
 * [Cancellation](cancellation.md)
 * [How to get in](how-to-get-in.md)
 
-## To be decided
-
-* [Unconference](to-be-decided/unconference.md)
-* [Performances](to-be-decided/performances.md)
-
 ## FAQ
 
 * [Filming and Photography](faq/filming-and-photography.md)
@@ -29,3 +24,7 @@
 * [Mech](shirt.md)
 * [Contact](contact.md)
 
+## Opportunities
+
+* [Unconference](to-be-decided/unconference.md)
+* [Performances](to-be-decided/performances.md)
