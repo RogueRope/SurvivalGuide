@@ -1,7 +1,7 @@
 # Camping
 
 
-It's a field, it's basic, with room for a campfire, so bring your guitar and marshmallows. We'll distribute electricity on the campsite, if you want to get hooked up bring your longest extension cord you have and a power strip. This way you can charge your mobile devices while you sleep.
+It's a field, it's basic, with room for a campfire, so bring your guitar and marshmallows. We'll distribute electricity on the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip. This way you can charge your mobile devices while you sleep.
 
 Let's hope for good weather, but if it rains, **do not dig a trench around your tent**. We want to leave the field in the same condition as we've found it.
 
