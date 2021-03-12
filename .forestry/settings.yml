@@ -5,8 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: "."
+  label: General
+  create: all
+  match: "**"
+- type: directory
+  path: to-be-decided
+  label: TBD
+  create: all
+  match: "**/*"
+- type: directory
   path: faq
-  label: P
+  label: Faq
   create: all
   match: "**/*"
 - type: jekyll-pages
