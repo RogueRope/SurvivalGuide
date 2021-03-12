@@ -1,4 +1,7 @@
-# Unconference
+---
+
+---
+# [photo-1562939651-9359f291c988.jfif](/assets/photo-1562939651-9359f291c988.jfif "photo-1562939651-9359f291c988.jfif")![](/assets/marilia-castelli-jx_7odso9_w-unsplash.jpg)Unconference
 
 Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 
@@ -13,5 +16,7 @@ Four easy rules for unconference sessions
 
 We'll follow the classical un-conference format with post-it notes. Think ahead:
 
-* what are topics/subject you'd like to see covered or would like to know more of? 
+* what are topics/subject you'd like to see covered or would like to know more of?
 * What are topic, subjects, workshops or activities you'd like to share with others?
+
+![](/assets/marilia-castelli-jx_7odso9_w-unsplash.jpg)
