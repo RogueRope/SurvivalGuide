@@ -8,7 +8,8 @@ sections:
   path: "."
   label: Main Pages
   create: documents
-  match: "*.md"
+  match: "**/*"
+  exclude: "*.md"
 - type: directory
   path: "./faq"
   label: Faq
