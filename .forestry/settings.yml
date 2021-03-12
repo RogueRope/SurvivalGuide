@@ -12,8 +12,8 @@ sections:
 - type: directory
   path: "./faq"
   label: Faq
-  create: documents
-  match: "*.md"
+  create: all
+  match: "**/*"
 - type: directory
   path: "./to-be-decided"
   label: to-be-decided
