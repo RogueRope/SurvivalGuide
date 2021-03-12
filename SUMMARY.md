@@ -18,7 +18,7 @@
 * [Emotional](faq/emotional.md)
 * [Consent](faq/consent.md)
 * [Participate](faq/participation.md)
-* [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
+* [The Principles](faq/the-n-principles-of-rogue-rope.md)
 * [Vouchers](faq/voucher.md)
 * [Merch](shirt.md)
 * [Contact](contact.md)
