@@ -1,20 +1,15 @@
 # Table of contents
 
 * [Intro](README.md)
-* [ChangeLog](changelog.md)
+* [Changes](changelog.md)
 * [Volunteer](volunteer.md)
 * [Food](food.md)
 * [Play](play.md)
-* [How to get in](how-to-get-in.md)
 * [Camping](camping.md)
-* [Things to Bring.](things-to-bring.md)
+* [Things to Bring](things-to-bring.md)
 * [COVID](covid.md)
 * [Cancellation](cancellation.md)
-
-## To be decided
-
-* [Unconference](to-be-decided/unconference.md)
-* [Performances](to-be-decided/performances.md)
+* [How to get in](how-to-get-in.md)
 
 ## FAQ
 
@@ -25,4 +20,10 @@
 * [Participate](faq/participation.md)
 * [The N Principles of Rogue Rope](faq/the-n-principles-of-rogue-rope.md)
 * [Vouchers](faq/voucher.md)
+* [Mech](shirt.md)
 * [Contact](contact.md)
+
+## Opportunities
+
+* [Unconference](to-be-decided/unconference.md)
+* [Performances](to-be-decided/performances.md)

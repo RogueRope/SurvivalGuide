@@ -8,12 +8,12 @@ If you are living in a foreign country, and you are not allowed by your local la
 
 ## Orga Cancelation
 
-In case something happens which makes us cancel the camp, for example sickness of the orga crew, you will get a full refund.
+In case something happens which forces us to cancel the camp, you will get a full refund.
 
 ## Personal Cancellation
 
 If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know so we can update the guest list and send the last minute info to the new ticket holder.
-If you don't know anyone to take your ticket, and we have people on the waiting list, you can get a refund of 85% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to make you a deal. Also in this case send an [contact the orga](contact.md).
+If you don't know anyone to take your ticket, and we have people on the waiting list, you can get a refund of 85% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to make you a deal. Also in this case [contact the orga](contact.md).
 
 ## Early termination of the event.
 

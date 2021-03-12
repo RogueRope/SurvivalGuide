@@ -1,4 +1,3 @@
-
 # Contact
 
 ## Whatsapp
@@ -17,7 +16,7 @@
 
 * **Specific questions:** 
 
-  Contact me on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515.
+  Contact me on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515. This also works for Signal and Telegram.
 
   If you prefer email, hit me up on info@roguerope.be
 

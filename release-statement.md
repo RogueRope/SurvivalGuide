@@ -1,3 +1,4 @@
+
 # Release Statement.
 
 ## Rogue Rope  vrijwaring formulier
@@ -17,13 +18,11 @@ Door ondertekening van dit formulier aanvaardt ondergetekende \(de â€œDeelnemerâ
 
 Ondergetekende is zich bewust van het feit dat deelname aan de activiteiten via Rogue Rope  voor eigen rekening en risico is. 
 
-De deelnemer wordt zelf verantoordelijk geacht voor het repecteren van eigen grenzen en beperkingen. Wanneer de activiteit met meerdere partners verloopt engageren de deelnemers zich er toe zelf afspraken te maken rond risico's en grenzen.
+De deelnemer wordt zelf verantwoordelijk geacht voor het respecteren van eigen grenzen en beperkingen. Wanneer de activiteit met meerdere partners verloopt engageren de deelnemers zich er toe zelf afspraken te maken rond risico's en grenzen.
 
-De activiteiten kunnen een inspannende bezigheid zijn. De Deelnemer dient daarom in een redelijke conditie te verkeren. Het is de eigen verantwoordelijkheid van de Deelnemer te beoordelen of hij/zij wel of niet kan deelnemen. Voor en tijdens een bondage activiteit is overmatig gebruik van alcohol en/of drugs niet toegestaan, je bent zelf verantwoordelijk dit in te schatten en na te leven.
+De activiteiten kunnen een inspannende bezigheid zijn. De Deelnemer dient daarom in een redelijke conditie te verkeren. Het is de eigen verantwoordelijkheid van de Deelnemer te beoordelen of hij/zij wel of niet kan deelnemen. Voor en tijdens een bondage activiteit is overmatig gebruik van alcohol en/of drugs niet aan te raden maar je bent zelf verantwoordelijk dit in te schatten en na te leven.
 
-Bij roekeloos knopen, bij negeren stopwoorden, vernielingen, schade etc. door Deelnemer, stelt Rogue Rope  Deelnemer aansprakelijk voor alle geleden schade. Als u dit formulier niet begrijpt, bent u verplicht dit voor aanvang van de activiteiten te melden.
-
-Rogue Rope Dungeon Masters, herkenbaar door hun kleding, hebben het recht om wanneer dat na een interpellatie geen afstand wordt gedaan van roekeloos of grensoverschrijdend gedrag, de deelnemer te op staande voet uit te sluiten van activiteiten van de  Deze weigering kan voor bepaalde of onbepaalde duur zijn.
+Rogue Rope Dungeon Masters, herkenbaar door hun kleding, hebben het recht om wanneer dat na een interpellatie geen afstand wordt gedaan van roekeloos of grensoverschrijdend gedrag, de deelnemer te op staande voet uit te sluiten van de activiteiten. Deze weigering kan voor bepaalde of onbepaalde duur zijn.
 
 Deze vrijwaring dient compleet ingevuld en ingeleverd te zijn voor aanvang van de activiteit.
 
@@ -31,7 +30,4 @@ Deze vrijwaring dient compleet ingevuld en ingeleverd te zijn voor aanvang van d
 
 **Geboortedatum/ date de naissance:**
 
-**Email:**
-
 **Handtekening / Signature :**
-
