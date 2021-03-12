@@ -5,15 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: "./faq"
+  path: faq
   label: P
   create: all
   match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: documents
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
